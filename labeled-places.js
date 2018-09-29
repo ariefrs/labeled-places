@@ -1,4 +1,4 @@
-var myplace = ({
+var myplace = {
   "features" : [ {
     "geometry" : {
       "coordinates" : [ -6.1613826, 106.8594737 ],
@@ -1165,4 +1165,4 @@ var myplace = ({
     "type" : "Feature"
   } ],
   "type" : "FeatureCollection"
-});
+};
