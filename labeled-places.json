@@ -60,7 +60,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek"
+      "name" : "Objek/"
     },
     "type" : "Feature"
   }, {
@@ -88,7 +88,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/GD/PT. BERJAYA ABADI/19"
+      "name" : "Objek/GD/PT. BERJAYA ABADI/19"
     },
     "type" : "Feature"
   }, {
@@ -142,7 +142,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RK/A.N BURHANUDIN"
+      "name" : "Objek/RK/A.N BURHANUDIN"
     },
     "type" : "Feature"
   }, {
@@ -151,7 +151,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK HPL"
+      "name" : "Objek/HPL"
     },
     "type" : "Feature"
   }, {
@@ -169,7 +169,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK BPD BANTEN"
+      "name" : "Objek/BPD BANTEN"
     },
     "type" : "Feature"
   }, {
@@ -178,7 +178,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 1-19 JT"
+      "name" : "DT1-19 JT"
     },
     "type" : "Feature"
   }, {
@@ -278,7 +278,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/CV.YULIA/NPTK/ELWIN CAB SURABAYA"
+      "name" : "Objek/CV.YULIA/NPTK/ELWIN CAB SURABAYA"
     },
     "type" : "Feature"
   }, {
@@ -296,7 +296,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/NP/CV. YULIA/ELWIN"
+      "name" : "Objek/NP/CV. YULIA/ELWIN"
     },
     "type" : "Feature"
   }, {
@@ -305,7 +305,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 1/TK/31,5JT"
+      "name" : "DT1/TK/31,5JT"
     },
     "type" : "Feature"
   }, {
@@ -323,7 +323,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 3"
+      "name" : "DT3"
     },
     "type" : "Feature"
   }, {
@@ -386,7 +386,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/QUALITA/LOK 1/19"
+      "name" : "Objek/QUALITA/LOK 1/19"
     },
     "type" : "Feature"
   }, {
@@ -413,7 +413,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOKASI 2"
+      "name" : "Objek/LOKASI 2"
     },
     "type" : "Feature"
   }, {
@@ -422,7 +422,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RK/A.N IKHWAN SETIAWAN"
+      "name" : "Objek/RK/A.N IKHWAN SETIAWAN"
     },
     "type" : "Feature"
   }, {
@@ -440,7 +440,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 2"
+      "name" : "DT2"
     },
     "type" : "Feature"
   }, {
@@ -467,7 +467,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK LOK 4"
+      "name" : "Objek/LOK 4"
     },
     "type" : "Feature"
   }, {
@@ -494,7 +494,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 3-14,7 JT"
+      "name" : "DT3-14,7 JT"
     },
     "type" : "Feature"
   }, {
@@ -513,7 +513,7 @@
     },
     "properties" : {
       "address" : "Apotek Sumber Jaya, Jl. Jend. Ahmad Yani, Sukarasa, Kec. Tangerang, Kota Tangerang, Banten 15111, Indonesia",
-      "name" : "Data 9"
+      "name" : "DT9"
     },
     "type" : "Feature"
   }, {
@@ -522,7 +522,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 2-950 rb"
+      "name" : "DT2-950 rb"
     },
     "type" : "Feature"
   }, {
@@ -549,7 +549,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOKASI 1/PT. BUMI PERKASA"
+      "name" : "Objek/LOKASI 1/PT. BUMI PERKASA"
     },
     "type" : "Feature"
   }, {
@@ -612,7 +612,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/GRAHA INDAH/LL DKI/19"
+      "name" : "Objek/GRAHA INDAH/LL DKI/19"
     },
     "type" : "Feature"
   }, {
@@ -639,7 +639,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 6"
+      "name" : "DT6"
     },
     "type" : "Feature"
   }, {
@@ -666,7 +666,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "objek"
+      "name" : "Objek/"
     },
     "type" : "Feature"
   }, {
@@ -702,7 +702,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TKGD/PT. BUMI PERKASA/LOK 3"
+      "name" : "Objek/TKGD/PT. BUMI PERKASA/LOK 3"
     },
     "type" : "Feature"
   }, {
@@ -711,7 +711,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOKASI 4/QUALITA/19"
+      "name" : "Objek/LOKASI 4/QUALITA/19"
     },
     "type" : "Feature"
   }, {
@@ -720,7 +720,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1"
+      "name" : "DT1"
     },
     "type" : "Feature"
   }, {
@@ -729,7 +729,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 2-RK-15,2 JT"
+      "name" : "DT2-RK-15,2 JT"
     },
     "type" : "Feature"
   }, {
@@ -756,7 +756,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 3-31 JT"
+      "name" : "DT3-31 JT"
     },
     "type" : "Feature"
   }, {
@@ -765,7 +765,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TKRGD/CV.MATTAPPAWALIE"
+      "name" : "Objek/TKRGD/CV.MATTAPPAWALIE"
     },
     "type" : "Feature"
   }, {
@@ -774,7 +774,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOKASI 4/PT. WIRAJAY INTERNUSA"
+      "name" : "Objek/LOKASI 4/PT. WIRAJAY INTERNUSA"
     },
     "type" : "Feature"
   }, {
@@ -801,7 +801,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 8"
+      "name" : "DT8"
     },
     "type" : "Feature"
   }, {
@@ -811,7 +811,7 @@
     },
     "properties" : {
       "address" : "Jl. Raya Karawaci / Imam Bonjol No.39A, Sukajadi, Karawaci, Kota Tangerang, Banten 15113, Indonesia",
-      "name" : "Data 4"
+      "name" : "DT4"
     },
     "type" : "Feature"
   }, {
@@ -856,7 +856,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 2 2,5 JT"
+      "name" : "DT2/2,5 JT"
     },
     "type" : "Feature"
   }, {
@@ -865,7 +865,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK 10/QUALITA/19"
+      "name" : "Objek/LOK 10/QUALITA/19"
     },
     "type" : "Feature"
   }, {
@@ -874,7 +874,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK-25 JT-(ok)"
+      "name" : "Objek/-25 JT-(ok)"
     },
     "type" : "Feature"
   }, {
@@ -883,7 +883,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK3/CV. MARINE/19"
+      "name" : "Objek/LOK3/CV. MARINE/19"
     },
     "type" : "Feature"
   }, {
@@ -893,7 +893,7 @@
     },
     "properties" : {
       "address" : "Jl. Perintis Kemerdekaan No.93, Babakan, Kec. Tangerang, Kota Tangerang, Banten 15118, Indonesia",
-      "name" : "Data 1"
+      "name" : "DT1"
     },
     "type" : "Feature"
   }, {
@@ -911,7 +911,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK 5/QUALITA/19"
+      "name" : "Objek/LOK 5/QUALITA/19"
     },
     "type" : "Feature"
   }, {
@@ -929,7 +929,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/306/A.N IDA BERUAT"
+      "name" : "Objek/306/A.N IDA BERUAT"
     },
     "type" : "Feature"
   }, {
@@ -938,7 +938,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 3 370 rb"
+      "name" : "DT3/370 rb"
     },
     "type" : "Feature"
   }, {
@@ -974,7 +974,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 2 315 RB"
+      "name" : "DT2/315 RB"
     },
     "type" : "Feature"
   }, {
@@ -1010,7 +1010,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 1"
+      "name" : "DT1"
     },
     "type" : "Feature"
   }, {
@@ -1019,7 +1019,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 3-5,5 JT"
+      "name" : "DT3-5,5 JT"
     },
     "type" : "Feature"
   }, {
@@ -1028,7 +1028,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 7"
+      "name" : "DT7"
     },
     "type" : "Feature"
   }, {
@@ -1046,7 +1046,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK LOK 5"
+      "name" : "Objek/LOK 5"
     },
     "type" : "Feature"
   }, {
@@ -1064,7 +1064,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 1-4,9 JT-MIRWAN"
+      "name" : "DT1-4,9 JT-MIRWAN"
     },
     "type" : "Feature"
   }, {
@@ -1073,7 +1073,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 2-11,5 JT"
+      "name" : "DT2-11,5 JT"
     },
     "type" : "Feature"
   }, {
@@ -1082,7 +1082,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "objek 306 goa/a.n saharia"
+      "name" : "Objek/306 goa/a.n saharia"
     },
     "type" : "Feature"
   }, {
@@ -1118,7 +1118,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RT/A.N LILY ANGGRAINI"
+      "name" : "Objek/RT/A.N LILY ANGGRAINI"
     },
     "type" : "Feature"
   }, {
@@ -1145,7 +1145,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3"
+      "name" : "DT3"
     },
     "type" : "Feature"
   }, {
@@ -1190,7 +1190,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 5"
+      "name" : "DT5"
     },
     "type" : "Feature"
   }, {
@@ -1199,7 +1199,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/A.N JUBAEDAH"
+      "name" : "Objek/A.N JUBAEDAH"
     },
     "type" : "Feature"
   }, {
@@ -1217,7 +1217,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/PABRIK/PT. KUSUMA KAISAN"
+      "name" : "Objek/PABRIK/PT. KUSUMA KAISAN"
     },
     "type" : "Feature"
   }, {
@@ -1226,7 +1226,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TKRT/LLMANDIRI/19"
+      "name" : "Objek/TKRT/LLMANDIRI/19"
     },
     "type" : "Feature"
   }, {
@@ -1253,7 +1253,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RT/RAHMAT RODEL/19"
+      "name" : "Objek/RT/RAHMAT RODEL/19"
     },
     "type" : "Feature"
   }, {
@@ -1262,7 +1262,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 3-3,1 JT"
+      "name" : "DT3-3,1 JT"
     },
     "type" : "Feature"
   }, {
@@ -1271,7 +1271,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK1/RK/CV. PUTERI JAYA/19"
+      "name" : "Objek/LOK1/RK/CV. PUTERI JAYA/19"
     },
     "type" : "Feature"
   }, {
@@ -1289,7 +1289,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TK/PT.PARANGLOE INDAH"
+      "name" : "Objek/TK/PT.PARANGLOE INDAH"
     },
     "type" : "Feature"
   }, {
@@ -1298,7 +1298,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/NPW/SAMBINAE"
+      "name" : "Objek/NPW/SAMBINAE"
     },
     "type" : "Feature"
   }, {
@@ -1307,7 +1307,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 3"
+      "name" : "DT3"
     },
     "type" : "Feature"
   }, {
@@ -1370,7 +1370,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 3 tanah kosong 2,5 jt (9.745 m2)"
+      "name" : "DT3/tanah kosong 2,5 jt (9.745 m2)"
     },
     "type" : "Feature"
   }, {
@@ -1406,7 +1406,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 1-2,2 JT"
+      "name" : "DT1-2,2 JT"
     },
     "type" : "Feature"
   }, {
@@ -1415,7 +1415,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 1"
+      "name" : "DT1"
     },
     "type" : "Feature"
   }, {
@@ -1442,7 +1442,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/306/A.N JAMRUD/15,2RB"
+      "name" : "Objek/306/A.N JAMRUD/15,2RB"
     },
     "type" : "Feature"
   }, {
@@ -1451,7 +1451,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data baru"
+      "name" : "DTbaru"
     },
     "type" : "Feature"
   }, {
@@ -1496,7 +1496,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 2"
+      "name" : "DT2"
     },
     "type" : "Feature"
   }, {
@@ -1505,7 +1505,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TK/LOK2/CV.MATTAPPAWALIE"
+      "name" : "Objek/TK/LOK2/CV.MATTAPPAWALIE"
     },
     "type" : "Feature"
   }, {
@@ -1523,7 +1523,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 2"
+      "name" : "DT2"
     },
     "type" : "Feature"
   }, {
@@ -1541,7 +1541,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TK/PT. SATRIA ALAM JAYA/19"
+      "name" : "Objek/TK/PT. SATRIA ALAM JAYA/19"
     },
     "type" : "Feature"
   }, {
@@ -1550,7 +1550,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 6"
+      "name" : "DT6"
     },
     "type" : "Feature"
   }, {
@@ -1577,7 +1577,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 1-12 JT"
+      "name" : "DT1-12 JT"
     },
     "type" : "Feature"
   }, {
@@ -1604,7 +1604,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RK/1193/18"
+      "name" : "Objek/RK/1193/18"
     },
     "type" : "Feature"
   }, {
@@ -1623,7 +1623,7 @@
     },
     "properties" : {
       "address" : "Jl. Jendral Sudirman No.51, Gedung Nasional, Taman Sari, Kota Pangkal Pinang, Kepulauan Bangka Belitung 33684, Indonesia",
-      "name" : "objek"
+      "name" : "Objek/"
     },
     "type" : "Feature"
   }, {
@@ -1659,7 +1659,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RT/PT.TIARA JAYA TUNGGAL/19"
+      "name" : "Objek/RT/PT.TIARA JAYA TUNGGAL/19"
     },
     "type" : "Feature"
   }, {
@@ -1713,7 +1713,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 3"
+      "name" : "DT3"
     },
     "type" : "Feature"
   }, {
@@ -1722,7 +1722,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/SW/BPD BANTEN/DANY"
+      "name" : "Objek/SW/BPD BANTEN/DANY"
     },
     "type" : "Feature"
   }, {
@@ -1758,7 +1758,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RK/A.N RUDY ISKANDAR/19"
+      "name" : "Objek/RK/A.N RUDY ISKANDAR/19"
     },
     "type" : "Feature"
   }, {
@@ -1849,7 +1849,7 @@
     },
     "properties" : {
       "address" : "Jl. Sunter Muara Baru, Sunter Agung, Tj. Priok, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta, Indonesia",
-      "name" : "data pt yakin"
+      "name" : "DTpt yakin"
     },
     "type" : "Feature"
   }, {
@@ -1885,7 +1885,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOKASI 5"
+      "name" : "Objek/LOKASI 5"
     },
     "type" : "Feature"
   }, {
@@ -1903,7 +1903,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "objek"
+      "name" : "Objek/"
     },
     "type" : "Feature"
   }, {
@@ -1921,7 +1921,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK LAMA -33 RIBU/M2"
+      "name" : "Objek/LAMA -33 RIBU/M2"
     },
     "type" : "Feature"
   }, {
@@ -1948,7 +1948,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TK/SULSELBAR/19"
+      "name" : "Objek/TK/SULSELBAR/19"
     },
     "type" : "Feature"
   }, {
@@ -1984,7 +1984,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK THE CEO"
+      "name" : "Objek/THE CEO"
     },
     "type" : "Feature"
   }, {
@@ -2038,7 +2038,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 5"
+      "name" : "DT5"
     },
     "type" : "Feature"
   }, {
@@ -2047,7 +2047,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RT/BUANA ARTA/JTRUST/19"
+      "name" : "Objek/RT/BUANA ARTA/JTRUST/19"
     },
     "type" : "Feature"
   }, {
@@ -2065,7 +2065,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 2-2 JT"
+      "name" : "DT2-2 JT"
     },
     "type" : "Feature"
   }, {
@@ -2074,7 +2074,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 3 2,1 JT"
+      "name" : "DT3/2,1 JT"
     },
     "type" : "Feature"
   }, {
@@ -2083,7 +2083,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3"
+      "name" : "DT3"
     },
     "type" : "Feature"
   }, {
@@ -2092,7 +2092,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK 12/QUALITA/19"
+      "name" : "Objek/LOK 12/QUALITA/19"
     },
     "type" : "Feature"
   }, {
@@ -2101,7 +2101,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA2/TK/250RB/19"
+      "name" : "DT2/TK/250RB/19"
     },
     "type" : "Feature"
   }, {
@@ -2119,7 +2119,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "objek/306/a.n darwis"
+      "name" : "Objek/306/a.n darwis"
     },
     "type" : "Feature"
   }, {
@@ -2174,7 +2174,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RT/LLBNI/A.N YONATHAN BORO"
+      "name" : "Objek/RT/LLBNI/A.N YONATHAN BORO"
     },
     "type" : "Feature"
   }, {
@@ -2201,7 +2201,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK 2/RK/RRMANDIRI/19"
+      "name" : "Objek/LOK 2/RK/RRMANDIRI/19"
     },
     "type" : "Feature"
   }, {
@@ -2255,7 +2255,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RT/DIANA NURSANTI/19"
+      "name" : "Objek/RT/DIANA NURSANTI/19"
     },
     "type" : "Feature"
   }, {
@@ -2282,7 +2282,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK1/RT/CV. PUTERI JAYA/19"
+      "name" : "Objek/LOK1/RT/CV. PUTERI JAYA/19"
     },
     "type" : "Feature"
   }, {
@@ -2291,7 +2291,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK 1/CV. MARINE"
+      "name" : "Objek/LOK 1/CV. MARINE"
     },
     "type" : "Feature"
   }, {
@@ -2309,7 +2309,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK LOK 3"
+      "name" : "Objek/LOK 3"
     },
     "type" : "Feature"
   }, {
@@ -2327,7 +2327,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TK/PT.PASSOKORANG/19"
+      "name" : "Objek/TK/PT.PASSOKORANG/19"
     },
     "type" : "Feature"
   }, {
@@ -2426,7 +2426,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 1"
+      "name" : "DT1"
     },
     "type" : "Feature"
   }, {
@@ -2435,7 +2435,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK"
+      "name" : "Objek/"
     },
     "type" : "Feature"
   }, {
@@ -2453,7 +2453,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "objek"
+      "name" : "Objek/"
     },
     "type" : "Feature"
   }, {
@@ -2462,7 +2462,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/SEMENBOSOWA/19"
+      "name" : "Objek/SEMENBOSOWA/19"
     },
     "type" : "Feature"
   }, {
@@ -2471,7 +2471,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 2 300 rb"
+      "name" : "DT2/300 rb"
     },
     "type" : "Feature"
   }, {
@@ -2489,7 +2489,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 2"
+      "name" : "DT2"
     },
     "type" : "Feature"
   }, {
@@ -2498,7 +2498,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 3"
+      "name" : "DT3"
     },
     "type" : "Feature"
   }, {
@@ -2543,7 +2543,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "objek/306/goa"
+      "name" : "Objek/306/goa"
     },
     "type" : "Feature"
   }, {
@@ -2588,7 +2588,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TK/LIKOTAMA/19"
+      "name" : "Objek/TK/LIKOTAMA/19"
     },
     "type" : "Feature"
   }, {
@@ -2597,7 +2597,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "objek 306-Pasar Baros"
+      "name" : "Objek/306-Pasar Baros"
     },
     "type" : "Feature"
   }, {
@@ -2606,7 +2606,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RT/A.N LA UDUS"
+      "name" : "Objek/RT/A.N LA UDUS"
     },
     "type" : "Feature"
   }, {
@@ -2633,7 +2633,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/A.N JUBAEDAH"
+      "name" : "Objek/A.N JUBAEDAH"
     },
     "type" : "Feature"
   }, {
@@ -2660,7 +2660,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 2-5,1 JT"
+      "name" : "DT2-5,1 JT"
     },
     "type" : "Feature"
   }, {
@@ -2678,7 +2678,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOKASI 3/PT. WIRAJAY INTERNUSA"
+      "name" : "Objek/LOKASI 3/PT. WIRAJAY INTERNUSA"
     },
     "type" : "Feature"
   }, {
@@ -2687,7 +2687,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 1"
+      "name" : "DT1"
     },
     "type" : "Feature"
   }, {
@@ -2705,7 +2705,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/PT.KUSUMA KAISAN"
+      "name" : "Objek/PT.KUSUMA KAISAN"
     },
     "type" : "Feature"
   }, {
@@ -2723,7 +2723,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 3"
+      "name" : "DT3"
     },
     "type" : "Feature"
   }, {
@@ -2732,7 +2732,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 2-1,5 JT"
+      "name" : "DT2-1,5 JT"
     },
     "type" : "Feature"
   }, {
@@ -2768,7 +2768,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 1"
+      "name" : "DT1"
     },
     "type" : "Feature"
   }, {
@@ -2777,7 +2777,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2-1,1 Jt"
+      "name" : "DT2-1,1 Jt"
     },
     "type" : "Feature"
   }, {
@@ -2804,7 +2804,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LL/DKI/19"
+      "name" : "Objek/LL/DKI/19"
     },
     "type" : "Feature"
   }, {
@@ -2823,7 +2823,7 @@
     },
     "properties" : {
       "address" : "LKP Super Bimbel GSC, JL. Jenderal Ahmad Yani, No. 97 B, Batin Tikal, Taman Sari, Kota Pangkal Pinang, Kepulauan Bangka Belitung 33684, Indonesia",
-      "name" : "data 3"
+      "name" : "DT3"
     },
     "type" : "Feature"
   }, {
@@ -2832,7 +2832,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "objek/306/a.n amir fagi"
+      "name" : "Objek/306/a.n amir fagi"
     },
     "type" : "Feature"
   }, {
@@ -2932,7 +2932,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LLBNI/TK/A.N ABDUL AZIZ"
+      "name" : "Objek/LLBNI/TK/A.N ABDUL AZIZ"
     },
     "type" : "Feature"
   }, {
@@ -2942,7 +2942,7 @@
     },
     "properties" : {
       "address" : "Gg. Teladan IV No.62A, Sukajadi, Karawaci, Kota Tangerang, Banten 15113, Indonesia",
-      "name" : "Data 3"
+      "name" : "DT3"
     },
     "type" : "Feature"
   }, {
@@ -2960,7 +2960,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 1"
+      "name" : "DT1"
     },
     "type" : "Feature"
   }, {
@@ -2969,7 +2969,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 2 lelang bni"
+      "name" : "DT2/lelang bni"
     },
     "type" : "Feature"
   }, {
@@ -3005,7 +3005,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/A.N HENCI BERUATWARIN"
+      "name" : "Objek/A.N HENCI BERUATWARIN"
     },
     "type" : "Feature"
   }, {
@@ -3014,7 +3014,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/PT. SATRIA ALAM JAYA/19"
+      "name" : "Objek/PT. SATRIA ALAM JAYA/19"
     },
     "type" : "Feature"
   }, {
@@ -3077,7 +3077,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LLMANDIRI/RONALD/19"
+      "name" : "Objek/LLMANDIRI/RONALD/19"
     },
     "type" : "Feature"
   }, {
@@ -3095,7 +3095,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 3"
+      "name" : "DT3"
     },
     "type" : "Feature"
   }, {
@@ -3104,7 +3104,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 3-4,5 JT"
+      "name" : "DT3-4,5 JT"
     },
     "type" : "Feature"
   }, {
@@ -3113,7 +3113,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1"
+      "name" : "DT1"
     },
     "type" : "Feature"
   }, {
@@ -3167,7 +3167,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 1 a/n Ferry Dame Lelang BNI 2,3 Jt"
+      "name" : "DT1 a/n Ferry Dame Lelang BNI 2,3 Jt"
     },
     "type" : "Feature"
   }, {
@@ -3185,7 +3185,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LELANG BNI/A.N ELMA FATY GUNADI/18"
+      "name" : "Objek/LELANG BNI/A.N ELMA FATY GUNADI/18"
     },
     "type" : "Feature"
   }, {
@@ -3221,7 +3221,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/PT. ANG & FANG/19"
+      "name" : "Objek/PT. ANG & FANG/19"
     },
     "type" : "Feature"
   }, {
@@ -3257,7 +3257,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3-950 Rb"
+      "name" : "DT3-950 Rb"
     },
     "type" : "Feature"
   }, {
@@ -3275,7 +3275,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TK/LOK8/CV.MATTAPPAWALIE"
+      "name" : "Objek/TK/LOK8/CV.MATTAPPAWALIE"
     },
     "type" : "Feature"
   }, {
@@ -3302,7 +3302,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/204/BENGSEL/19"
+      "name" : "Objek/204/BENGSEL/19"
     },
     "type" : "Feature"
   }, {
@@ -3311,7 +3311,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 1-2,5 JT- M ADAM"
+      "name" : "DT1-2,5 JT- M ADAM"
     },
     "type" : "Feature"
   }, {
@@ -3338,7 +3338,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK 3/CV. SINAR PRIMA"
+      "name" : "Objek/LOK 3/CV. SINAR PRIMA"
     },
     "type" : "Feature"
   }, {
@@ -3410,7 +3410,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "objek LL BNI a.n Marhana"
+      "name" : "Objek/LL BNI a.n Marhana"
     },
     "type" : "Feature"
   }, {
@@ -3419,7 +3419,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/SWRK/DKI/19"
+      "name" : "Objek/SWRK/DKI/19"
     },
     "type" : "Feature"
   }, {
@@ -3446,7 +3446,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK 1/CV. SINAR PERMAI"
+      "name" : "Objek/LOK 1/CV. SINAR PERMAI"
     },
     "type" : "Feature"
   }, {
@@ -3464,7 +3464,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 1-270 RB"
+      "name" : "DT1-270 RB"
     },
     "type" : "Feature"
   }, {
@@ -3528,7 +3528,7 @@
     },
     "properties" : {
       "address" : "Jl. Yos Sudarso, Kota Pangkal Pinang, Kepulauan Bangka Belitung 33172, Indonesia",
-      "name" : "data 1"
+      "name" : "DT1"
     },
     "type" : "Feature"
   }, {
@@ -3564,7 +3564,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/SW/BANK BPD BANTEN"
+      "name" : "Objek/SW/BANK BPD BANTEN"
     },
     "type" : "Feature"
   }, {
@@ -3573,7 +3573,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 2 28 JT"
+      "name" : "DT2/28 JT"
     },
     "type" : "Feature"
   }, {
@@ -3592,7 +3592,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RK/SUARDI/LLMANDIRI/19"
+      "name" : "Objek/RK/SUARDI/LLMANDIRI/19"
     },
     "type" : "Feature"
   }, {
@@ -3637,7 +3637,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK LOKASI 5/PT. WIRAJAY INTERNUSA"
+      "name" : "Objek/LOKASI 5/PT. WIRAJAY INTERNUSA"
     },
     "type" : "Feature"
   }, {
@@ -3646,7 +3646,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/SWRK/DKI/19"
+      "name" : "Objek/SWRK/DKI/19"
     },
     "type" : "Feature"
   }, {
@@ -3655,7 +3655,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 1-15,5 JT-Ruko"
+      "name" : "DT1-15,5 JT-Ruko"
     },
     "type" : "Feature"
   }, {
@@ -3664,7 +3664,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK AN MIRWAN"
+      "name" : "Objek/AN MIRWAN"
     },
     "type" : "Feature"
   }, {
@@ -3709,7 +3709,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 5"
+      "name" : "DT5"
     },
     "type" : "Feature"
   }, {
@@ -3745,7 +3745,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data/3/2jt/234"
+      "name" : "DT/3/2jt/234"
     },
     "type" : "Feature"
   }, {
@@ -3763,7 +3763,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK2/TK/19"
+      "name" : "Objek/LOK2/TK/19"
     },
     "type" : "Feature"
   }, {
@@ -3781,7 +3781,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LL/A.N JUBAIDAH/LOK 4"
+      "name" : "Objek/LL/A.N JUBAIDAH/LOK 4"
     },
     "type" : "Feature"
   }, {
@@ -3800,7 +3800,7 @@
     },
     "properties" : {
       "address" : "Jl. Cokroaminoto No.99a, Pemecutan Kaja, Denpasar Utara, Kota Denpasar, Bali 80111, Indonesia",
-      "name" : "objek"
+      "name" : "Objek/"
     },
     "type" : "Feature"
   }, {
@@ -3818,7 +3818,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TK/LOK7/CV.MATTAPPAWALIE"
+      "name" : "Objek/TK/LOK7/CV.MATTAPPAWALIE"
     },
     "type" : "Feature"
   }, {
@@ -3872,7 +3872,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK LOK 6"
+      "name" : "Objek/LOK 6"
     },
     "type" : "Feature"
   }, {
@@ -3881,7 +3881,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 2 6 JT"
+      "name" : "DT2/6 JT"
     },
     "type" : "Feature"
   }, {
@@ -3890,7 +3890,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOKASI 9/1193/18"
+      "name" : "Objek/LOKASI 9/1193/18"
     },
     "type" : "Feature"
   }, {
@@ -3926,7 +3926,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 1"
+      "name" : "DT1"
     },
     "type" : "Feature"
   }, {
@@ -3935,7 +3935,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 3"
+      "name" : "DT3"
     },
     "type" : "Feature"
   }, {
@@ -3953,7 +3953,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK 7/QUALITA/19"
+      "name" : "Objek/LOK 7/QUALITA/19"
     },
     "type" : "Feature"
   }, {
@@ -3989,7 +3989,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK ROYKY PHILIPUS"
+      "name" : "Objek/ROYKY PHILIPUS"
     },
     "type" : "Feature"
   }, {
@@ -4016,7 +4016,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 2"
+      "name" : "DT2"
     },
     "type" : "Feature"
   }, {
@@ -4061,7 +4061,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RT/PARADONG/LL DKI/19"
+      "name" : "Objek/RT/PARADONG/LL DKI/19"
     },
     "type" : "Feature"
   }, {
@@ -4070,7 +4070,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 3"
+      "name" : "DT3"
     },
     "type" : "Feature"
   }, {
@@ -4142,7 +4142,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "objek/Gudang/PT. Wahyu Pradana"
+      "name" : "Objek/Gudang/PT. Wahyu Pradana"
     },
     "type" : "Feature"
   }, {
@@ -4160,7 +4160,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TK/A.N MUHAIMIN"
+      "name" : "Objek/TK/A.N MUHAIMIN"
     },
     "type" : "Feature"
   }, {
@@ -4178,7 +4178,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/SWRK/DKI/19"
+      "name" : "Objek/SWRK/DKI/19"
     },
     "type" : "Feature"
   }, {
@@ -4196,7 +4196,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 4-40 JT"
+      "name" : "DT4-40 JT"
     },
     "type" : "Feature"
   }, {
@@ -4205,7 +4205,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 1-9,2 JT"
+      "name" : "DT1-9,2 JT"
     },
     "type" : "Feature"
   }, {
@@ -4223,7 +4223,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RT/A.N IKHWAN SETIWAN"
+      "name" : "Objek/RT/A.N IKHWAN SETIWAN"
     },
     "type" : "Feature"
   }, {
@@ -4232,7 +4232,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 1-2,7 JT-ROYKE PHILIPUS"
+      "name" : "DT1-2,7 JT-ROYKE PHILIPUS"
     },
     "type" : "Feature"
   }, {
@@ -4241,7 +4241,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK 1/52RB/204/PAKET 1/19"
+      "name" : "Objek/LOK 1/52RB/204/PAKET 1/19"
     },
     "type" : "Feature"
   }, {
@@ -4250,7 +4250,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 2"
+      "name" : "DT2"
     },
     "type" : "Feature"
   }, {
@@ -4259,7 +4259,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 3"
+      "name" : "DT3"
     },
     "type" : "Feature"
   }, {
@@ -4304,7 +4304,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 3 1 jt"
+      "name" : "DT3/1 jt"
     },
     "type" : "Feature"
   }, {
@@ -4331,7 +4331,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 1 194 rbu"
+      "name" : "DT1 194 rbu"
     },
     "type" : "Feature"
   }, {
@@ -4350,7 +4350,7 @@
     },
     "properties" : {
       "address" : "Jl. Sis Aljufri, Boyaoge, Palu Bar., Kota Palu, Sulawesi Tengah 94111, Indonesia",
-      "name" : "Data 2"
+      "name" : "DT2"
     },
     "type" : "Feature"
   }, {
@@ -4377,7 +4377,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TKGD/PT. BUMI PERKASA"
+      "name" : "Objek/TKGD/PT. BUMI PERKASA"
     },
     "type" : "Feature"
   }, {
@@ -4395,7 +4395,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TK/306 GOA/A.N ST AMINAH"
+      "name" : "Objek/TK/306 GOA/A.N ST AMINAH"
     },
     "type" : "Feature"
   }, {
@@ -4449,7 +4449,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 2-2,2 JT"
+      "name" : "DT2-2,2 JT"
     },
     "type" : "Feature"
   }, {
@@ -4458,7 +4458,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK 11/QUALITA/19"
+      "name" : "Objek/LOK 11/QUALITA/19"
     },
     "type" : "Feature"
   }, {
@@ -4467,7 +4467,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/GORUT/PUSKESMAS/19"
+      "name" : "Objek/GORUT/PUSKESMAS/19"
     },
     "type" : "Feature"
   }, {
@@ -4521,7 +4521,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK 8/QUALITA/19"
+      "name" : "Objek/LOK 8/QUALITA/19"
     },
     "type" : "Feature"
   }, {
@@ -4531,7 +4531,7 @@
     },
     "properties" : {
       "address" : "Aipda Karel Sasuit Tubun No.27, Koang Jaya, Karawaci, Kota Tangerang, Banten 15112, Indonesia",
-      "name" : "Data 7"
+      "name" : "DT7"
     },
     "type" : "Feature"
   }, {
@@ -4558,7 +4558,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 1"
+      "name" : "DT1"
     },
     "type" : "Feature"
   }, {
@@ -4586,7 +4586,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/SWKT/BANK BPD BANTEN"
+      "name" : "Objek/SWKT/BANK BPD BANTEN"
     },
     "type" : "Feature"
   }, {
@@ -4595,7 +4595,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2"
+      "name" : "DT2"
     },
     "type" : "Feature"
   }, {
@@ -4631,7 +4631,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1-665 rb"
+      "name" : "DT1-665 rb"
     },
     "type" : "Feature"
   }, {
@@ -4640,7 +4640,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK 2/CV. SINAR PERMAI"
+      "name" : "Objek/LOK 2/CV. SINAR PERMAI"
     },
     "type" : "Feature"
   }, {
@@ -4649,7 +4649,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 3-RK-16,1 JT"
+      "name" : "DT3-RK-16,1 JT"
     },
     "type" : "Feature"
   }, {
@@ -4658,7 +4658,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/SWKT/BPD BANTEN"
+      "name" : "Objek/SWKT/BPD BANTEN"
     },
     "type" : "Feature"
   }, {
@@ -4667,7 +4667,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK LOK 2"
+      "name" : "Objek/LOK 2"
     },
     "type" : "Feature"
   }, {
@@ -4685,7 +4685,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 2 1,5 jt"
+      "name" : "DT2/1,5 jt"
     },
     "type" : "Feature"
   }, {
@@ -4712,7 +4712,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK 6/QUALITA/19"
+      "name" : "Objek/LOK 6/QUALITA/19"
     },
     "type" : "Feature"
   }, {
@@ -4722,7 +4722,7 @@
     },
     "properties" : {
       "address" : "Jl. Masjid Jamik, Kota Pangkal Pinang, Kepulauan Bangka Belitung 33684, Indonesia",
-      "name" : "data 2"
+      "name" : "DT2"
     },
     "type" : "Feature"
   }, {
@@ -4731,7 +4731,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/SENTA/LL/DKI/19"
+      "name" : "Objek/SENTA/LL/DKI/19"
     },
     "type" : "Feature"
   }, {
@@ -4740,7 +4740,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK LOK PURWAKARTA JL MANGGA DUA"
+      "name" : "Objek/LOK PURWAKARTA JL MANGGA DUA"
     },
     "type" : "Feature"
   }, {
@@ -4776,7 +4776,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK LOK 1 JAINUM"
+      "name" : "Objek/LOK 1 JAINUM"
     },
     "type" : "Feature"
   }, {
@@ -4794,7 +4794,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 2"
+      "name" : "DT2"
     },
     "type" : "Feature"
   }, {
@@ -4848,7 +4848,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/PT. TORAJA MASILIANA/HOTEL/19"
+      "name" : "Objek/PT. TORAJA MASILIANA/HOTEL/19"
     },
     "type" : "Feature"
   }, {
@@ -4875,7 +4875,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TK/A.N LA UDUS"
+      "name" : "Objek/TK/A.N LA UDUS"
     },
     "type" : "Feature"
   }, {
@@ -4893,7 +4893,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RT/PT. KUSUMA KAISAN"
+      "name" : "Objek/RT/PT. KUSUMA KAISAN"
     },
     "type" : "Feature"
   }, {
@@ -4902,7 +4902,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "objek/TK/306 GOA/A.N MUHAMMAD ZANOER"
+      "name" : "Objek/TK/306 GOA/A.N MUHAMMAD ZANOER"
     },
     "type" : "Feature"
   }, {
@@ -4930,7 +4930,7 @@
     },
     "properties" : {
       "address" : "Jl. Dr. Wahidin No.20, Besusu Bar., Palu Tim., Kota Palu, Sulawesi Tengah 94111, Indonesia",
-      "name" : "Data 4"
+      "name" : "DT4"
     },
     "type" : "Feature"
   }, {
@@ -4939,7 +4939,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 2-12 JT"
+      "name" : "DT2-12 JT"
     },
     "type" : "Feature"
   }, {
@@ -4948,7 +4948,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 3"
+      "name" : "DT3"
     },
     "type" : "Feature"
   }, {
@@ -4957,7 +4957,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 2"
+      "name" : "DT2"
     },
     "type" : "Feature"
   }, {
@@ -4966,7 +4966,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/UNIV SATYAGAMA"
+      "name" : "Objek/UNIV SATYAGAMA"
     },
     "type" : "Feature"
   }, {
@@ -4993,7 +4993,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 4"
+      "name" : "DT4"
     },
     "type" : "Feature"
   }, {
@@ -5020,7 +5020,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 3 2,2 jt"
+      "name" : "DT3/2,2 jt"
     },
     "type" : "Feature"
   }, {
@@ -5047,7 +5047,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "daTA 1"
+      "name" : "DT1"
     },
     "type" : "Feature"
   }, {
@@ -5074,7 +5074,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK A.N ABU BAKAR"
+      "name" : "Objek/A.N ABU BAKAR"
     },
     "type" : "Feature"
   }, {
@@ -5083,7 +5083,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/306/TK/A.N H.ISMAIL TOBO"
+      "name" : "Objek/306/TK/A.N H.ISMAIL TOBO"
     },
     "type" : "Feature"
   }, {
@@ -5110,7 +5110,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RT/PT. WAHYU PRADANA/AG BNI"
+      "name" : "Objek/RT/PT. WAHYU PRADANA/AG BNI"
     },
     "type" : "Feature"
   }, {
@@ -5128,7 +5128,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/SWRK/DKI/19"
+      "name" : "Objek/SWRK/DKI/19"
     },
     "type" : "Feature"
   }, {
@@ -5137,7 +5137,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 1-1,3 JT- JAENUM"
+      "name" : "DT1-1,3 JT- JAENUM"
     },
     "type" : "Feature"
   }, {
@@ -5164,7 +5164,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA  3-45O RB"
+      "name" : "DT 3-45O RB"
     },
     "type" : "Feature"
   }, {
@@ -5173,7 +5173,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 3 1,4 JT"
+      "name" : "DT3/1,4 JT"
     },
     "type" : "Feature"
   }, {
@@ -5209,7 +5209,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK5/CV.MARINE"
+      "name" : "Objek/LOK5/CV.MARINE"
     },
     "type" : "Feature"
   }, {
@@ -5218,7 +5218,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 2 2,5 JT"
+      "name" : "DT2/2,5 JT"
     },
     "type" : "Feature"
   }, {
@@ -5227,7 +5227,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data rmh 15 juta/m2"
+      "name" : "DTrmh 15 juta/m2"
     },
     "type" : "Feature"
   }, {
@@ -5272,7 +5272,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LLBCA/NURLIANA"
+      "name" : "Objek/LLBCA/NURLIANA"
     },
     "type" : "Feature"
   }, {
@@ -5290,7 +5290,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/SWRK/DKI/19"
+      "name" : "Objek/SWRK/DKI/19"
     },
     "type" : "Feature"
   }, {
@@ -5327,7 +5327,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/A.N RUSDA"
+      "name" : "Objek/A.N RUSDA"
     },
     "type" : "Feature"
   }, {
@@ -5354,7 +5354,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 3-19,5 JT"
+      "name" : "DT3-19,5 JT"
     },
     "type" : "Feature"
   }, {
@@ -5363,7 +5363,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK M. ADAM"
+      "name" : "Objek/M. ADAM"
     },
     "type" : "Feature"
   }, {
@@ -5372,7 +5372,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/306/A.N JAMRUT RENHORAN"
+      "name" : "Objek/306/A.N JAMRUT RENHORAN"
     },
     "type" : "Feature"
   }, {
@@ -5382,7 +5382,7 @@
     },
     "properties" : {
       "address" : "Jl. Pue Bongo 16-10, Boyaoge, Palu Bar., Kota Palu, Sulawesi Tengah 94111, Indonesia",
-      "name" : "Data 1"
+      "name" : "DT1"
     },
     "type" : "Feature"
   }, {
@@ -5391,7 +5391,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 3 7,8 JT"
+      "name" : "DT3//7,8 JT/"
     },
     "type" : "Feature"
   }, {
@@ -5436,7 +5436,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "objek"
+      "name" : "Objek/"
     },
     "type" : "Feature"
   }, {
@@ -5445,7 +5445,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 3"
+      "name" : "DT3"
     },
     "type" : "Feature"
   }, {
@@ -5481,7 +5481,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/SWRK/BPDBANTEN/BAAN"
+      "name" : "Objek/SWRK/BPDBANTEN/BAAN"
     },
     "type" : "Feature"
   }, {
@@ -5499,7 +5499,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 2 7,3 JT"
+      "name" : "DT2//7,3 JT/"
     },
     "type" : "Feature"
   }, {
@@ -5508,7 +5508,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/HOTEL PT PAMORINDO/19"
+      "name" : "Objek/HOTEL PT PAMORINDO/19"
     },
     "type" : "Feature"
   }, {
@@ -5535,7 +5535,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RK/AGN BNI/A.N IWAN KUNCORO"
+      "name" : "Objek/RK/AGN BNI/A.N IWAN KUNCORO"
     },
     "type" : "Feature"
   }, {
@@ -5571,7 +5571,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/PT. PRIMA KONTRUKSI/19"
+      "name" : "Objek/PT. PRIMA KONTRUKSI/19"
     },
     "type" : "Feature"
   }, {
@@ -5607,7 +5607,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/JUBAIDAH/LOK 3"
+      "name" : "Objek/JUBAIDAH/LOK 3"
     },
     "type" : "Feature"
   }, {
@@ -5616,7 +5616,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data r6-7,8 juta/m2"
+      "name" : "DTr6-7,8 juta/m2"
     },
     "type" : "Feature"
   }, {
@@ -5634,7 +5634,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/306/A.N MAGDALENA"
+      "name" : "Objek/306/A.N MAGDALENA"
     },
     "type" : "Feature"
   }, {
@@ -5670,7 +5670,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK 3/QUALITA/19"
+      "name" : "Objek/LOK 3/QUALITA/19"
     },
     "type" : "Feature"
   }, {
@@ -5688,7 +5688,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1-2,2 JT-tanah sawah"
+      "name" : "DT1-2,2 JT-tanah sawah"
     },
     "type" : "Feature"
   }, {
@@ -5706,7 +5706,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "objek"
+      "name" : "Objek/"
     },
     "type" : "Feature"
   }, {
@@ -5715,7 +5715,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/PT. TRITON/19"
+      "name" : "Objek/PT. TRITON/19"
     },
     "type" : "Feature"
   }, {
@@ -5751,7 +5751,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK 9/QUALITA/19"
+      "name" : "Objek/LOK 9/QUALITA/19"
     },
     "type" : "Feature"
   }, {
@@ -5796,7 +5796,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RK/PT WIRAJAY INTERNUSA"
+      "name" : "Objek/RK/PT WIRAJAY INTERNUSA"
     },
     "type" : "Feature"
   }, {
@@ -5814,7 +5814,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 3 2,6 JT"
+      "name" : "DT3/2,6 JT"
     },
     "type" : "Feature"
   }, {
@@ -5823,7 +5823,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek Gudang PemProv BANGKA"
+      "name" : "Objek/Gudang PemProv BANGKA"
     },
     "type" : "Feature"
   }, {
@@ -5841,7 +5841,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 1"
+      "name" : "DT1"
     },
     "type" : "Feature"
   }, {
@@ -5859,7 +5859,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RK/LOKASI 8/PT. WIRAJAY INTERNUSA"
+      "name" : "Objek/RK/LOKASI 8/PT. WIRAJAY INTERNUSA"
     },
     "type" : "Feature"
   }, {
@@ -5886,7 +5886,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RK/LLBNI/A.N UDIN RUSDI"
+      "name" : "Objek/RK/LLBNI/A.N UDIN RUSDI"
     },
     "type" : "Feature"
   }, {
@@ -5915,7 +5915,7 @@
     },
     "properties" : {
       "address" : "Dinas Pertanian Dan Peternakan Kabupaten Tangerang, Jl. Daan Mogot Pasar Baru Kota Tangerang, Sukarasa, Tangerang, Tangerang City, Banten 15111, Indonesia",
-      "name" : "Objek PT. Prabutama Konstruksindo"
+      "name" : "Objek/PT. Prabutama Konstruksindo"
     },
     "type" : "Feature"
   }, {
@@ -5960,7 +5960,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TK/LOK9/CV.MATTAPPAWALIE"
+      "name" : "Objek/TK/LOK9/CV.MATTAPPAWALIE"
     },
     "type" : "Feature"
   }, {
@@ -5978,7 +5978,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOKASI 2/PT. WIRAJAY INTERNUSA"
+      "name" : "Objek/LOKASI 2/PT. WIRAJAY INTERNUSA"
     },
     "type" : "Feature"
   }, {
@@ -5987,7 +5987,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2"
+      "name" : "DT2"
     },
     "type" : "Feature"
   }, {
@@ -6014,7 +6014,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 1-62 Rb/m2/bln"
+      "name" : "DT1-62 Rb/m2/bln"
     },
     "type" : "Feature"
   }, {
@@ -6059,7 +6059,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LLBNI/MUH RIJAL"
+      "name" : "Objek/LLBNI/MUH RIJAL"
     },
     "type" : "Feature"
   }, {
@@ -6068,7 +6068,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "objek PT. MAS"
+      "name" : "Objek/PT. MAS"
     },
     "type" : "Feature"
   }, {
@@ -6077,7 +6077,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/QUALITA/LOK 2/19"
+      "name" : "Objek/QUALITA/LOK 2/19"
     },
     "type" : "Feature"
   }, {
@@ -6086,7 +6086,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/GUDANG/JUAL BELI/SHERLY/19"
+      "name" : "Objek/GUDANG/JUAL BELI/SHERLY/19"
     },
     "type" : "Feature"
   }, {
@@ -6131,7 +6131,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 1 950 rb"
+      "name" : "DT1 950 rb"
     },
     "type" : "Feature"
   }, {
@@ -6158,7 +6158,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOKASI 6"
+      "name" : "Objek/LOKASI 6"
     },
     "type" : "Feature"
   }, {
@@ -6176,7 +6176,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "objek PT. Mas"
+      "name" : "Objek/PT. Mas"
     },
     "type" : "Feature"
   }, {
@@ -6231,7 +6231,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek Danom No 5"
+      "name" : "Objek/Danom No 5"
     },
     "type" : "Feature"
   }, {
@@ -6250,7 +6250,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK FERRY DAME"
+      "name" : "Objek/FERRY DAME"
     },
     "type" : "Feature"
   }, {
@@ -6259,7 +6259,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK 2 -31 RIBU/M2/20.000M2"
+      "name" : "Objek/2 -31 RIBU/M2/20.000M2"
     },
     "type" : "Feature"
   }, {
@@ -6295,7 +6295,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 2-3,5 jt- tanah kosong (1.020 m2)"
+      "name" : "DT2-3,5 jt- tanah kosong (1.020 m2)"
     },
     "type" : "Feature"
   }, {
@@ -6331,7 +6331,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TK/PT. SURYA WARNA PUTRA/7,4JT"
+      "name" : "Objek/TK/PT. SURYA WARNA PUTRA/7,4JT"
     },
     "type" : "Feature"
   }, {
@@ -6350,7 +6350,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/SKK MIGAS/HARPINDO/19"
+      "name" : "Objek/SKK MIGAS/HARPINDO/19"
     },
     "type" : "Feature"
   }, {
@@ -6378,7 +6378,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RK/LLDKI/19"
+      "name" : "Objek/RK/LLDKI/19"
     },
     "type" : "Feature"
   }, {
@@ -6405,7 +6405,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RT/SAMSAT/19"
+      "name" : "Objek/RT/SAMSAT/19"
     },
     "type" : "Feature"
   }, {
@@ -6414,7 +6414,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/RK/PT. BERJAYA ABADI/19"
+      "name" : "Objek/RK/PT. BERJAYA ABADI/19"
     },
     "type" : "Feature"
   }, {
@@ -6423,7 +6423,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 1-23 JT- LLG BNI A/N M.ICHSAN ANGGO"
+      "name" : "DT1-23 JT- LLG BNI A/N M.ICHSAN ANGGO"
     },
     "type" : "Feature"
   }, {
@@ -6432,7 +6432,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek"
+      "name" : "Objek/"
     },
     "type" : "Feature"
   }, {
@@ -6442,7 +6442,7 @@
     },
     "properties" : {
       "address" : "Hercules, Jl. Imam Bonjol No.8, RT.004, Sukajadi, Karawaci, Kota Tangerang, Banten 15113, Indonesia",
-      "name" : "Data 2"
+      "name" : "DT2"
     },
     "type" : "Feature"
   }, {
@@ -6451,7 +6451,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "objek KCI Lok Bandung"
+      "name" : "Objek/ KCI Lok Bandung"
     },
     "type" : "Feature"
   }, {
@@ -6460,7 +6460,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TK/LLBNI/A.N M TAHIR"
+      "name" : "Objek/TK/LLBNI/A.N M TAHIR"
     },
     "type" : "Feature"
   }, {
@@ -6469,7 +6469,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK 6"
+      "name" : "Objek/LOK 6"
     },
     "type" : "Feature"
   }, {
@@ -6541,7 +6541,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek KCI Lok Purwakarta Bp Otong"
+      "name" : "Objek/KCI Lok Purwakarta Bp Otong"
     },
     "type" : "Feature"
   }, {
@@ -6622,7 +6622,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 1-32 JT"
+      "name" : "DT1//32 JT/"
     },
     "type" : "Feature"
   }, {
@@ -6641,7 +6641,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "DATA 2/TK/30,5 JT"
+      "name" : "DT2/TK/30,5 JT"
     },
     "type" : "Feature"
   }, {
@@ -6650,7 +6650,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK JAYA GINTING"
+      "name" : "Objek/JAYA GINTING"
     },
     "type" : "Feature"
   }, {
@@ -6659,7 +6659,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "data 4 r6-4,5 juta/m2"
+      "name" : "DT4 r6-4,5 juta/m2"
     },
     "type" : "Feature"
   }, {
@@ -6686,7 +6686,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/TKSW/306 GOA/A.N JOSEP LIRUNGAN"
+      "name" : "Objek/TKSW/306 GOA/A.N JOSEP LIRUNGAN"
     },
     "type" : "Feature"
   }, {
@@ -6695,7 +6695,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "OBJEK/LOK2/CV. MARINE"
+      "name" : "Objek/LOK2/CV. MARINE"
     },
     "type" : "Feature"
   }, {
