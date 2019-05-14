@@ -1,12 +1,437 @@
 {
   "features" : [ {
     "geometry" : {
+      "coordinates" : [ -6.203674299999999, 106.9250024 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Home"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1885014, 106.8347417 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Work"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.876052, 105.19297859999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT10/TK/23RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.161453, 106.859629 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Jl. Taruna II No.20B, Serdang, Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10650, Indonesia",
+      "name" : "Kosan"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.3374999999999995, 106.77986109999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/5,7JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5638332999999998, 140.4936389 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/3,9JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.0354359, 120.4297974 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Objek"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.194052999999999, 106.8169491 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Unnamed Road, Kb. Melati, Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230, Indonesia",
+      "name" : "DT1/TKRT/2,5 JT/18"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.2756089, 112.8089675 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/14JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.9860832999999998, 122.5746111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/GD/PT. BERJAYA ABADI/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.0949999999999998, 119.875 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3BR/TK/950RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.291305599999999, 106.81325 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT4/SWOF/RATUPRABU/195RB/M"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.4184722, 119.43966669999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/1JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1391944, 106.13966669999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/4,1JT/18"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.238944399999999, 106.84547219999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/SWRK/81RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3583333, 135.5024167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RK/A.N BURHANUDIN"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1552492, 106.8404171 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK HPL"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1608184, 106.8955355 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/34,2JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.975754899999999, 112.629723 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK BPD BANTEN"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1870278, 106.83886109999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DATA 1-19 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.4834889, 118.76675829999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/270RB/17"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1200278, 119.5128889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/7,3JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.5662778, 136.87936109999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/3,2JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.9844722, 122.57677779999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/526RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1822083, 106.99471 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Plaza Taman Harapan Baru, Jl. Harapan Baru Ray, Pejuang, Medan Satria, Kota Bks, Jawa Barat 17125, Indonesia",
+      "name" : "Pung Bekasi"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.252228, 112.55160699999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/NPTK/750RB/M"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1973329999999995, 119.495936 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/1JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.9595389999999995, 112.63737569999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/SWKT/79RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.4980212, 108.9112196 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/350RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2834588, 106.78067259999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/SWRK/155RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.256968, 112.545824 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/CV.YULIA/NPTK/ELWIN CAB SURABAYA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1606388999999995, 119.4606111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/3JT/A.N ELMY"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.580672, 112.17119199999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/NP/CV. YULIA/ELWIN"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1573516999999995, 106.8442728 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DATA 1/TK/31,5JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2198347, 106.7414876 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/SWRK/40RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -8.6306111, 115.20119439999999 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3",
-      "address" : " "
+      "name" : "DATA 3"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.4866222, 118.76705279999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/360RB/17"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.917795, 107.6131844 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/SWKT/79RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.2273119999999995, 119.41895799999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKSW/475RB/306 GOA/A.N.M.ZANOER"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.5463610999999995, 103.0595278 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/54RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1474119, 106.7288646 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/13,5 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.8943889, 116.7563333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT8/TRTKOS/SHM/153RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9044167, 131.3249722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/QUALITA/LOK 1/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.5454722, 106.8185556 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT4/TKRT/3,2JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.547416699999999, 106.81952779999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/3,5JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6377318, 123.0101748 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOKASI 2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3419444, 135.51769439999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RK/A.N IKHWAN SETIAWAN"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.4895312, 133.1395876 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OB/LOKASI 5"
     },
     "type" : "Feature"
   }, {
@@ -15,8 +440,25 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2",
-      "address" : " "
+      "name" : "data 2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.9161389, 116.7502306 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/SHM/180RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6272947999999999, 123.0099994 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/118RB/TK"
     },
     "type" : "Feature"
   }, {
@@ -25,8 +467,43 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek LOK 4",
-      "address" : " "
+      "name" : "OBJEK LOK 4"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.02575, 131.3178333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/382RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.0451441999999997, 105.18553349999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/503RB/1193/18"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1670833, 119.4231111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DATA 3-14,7 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2528663, 106.7276083 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Rumah Pak Tedy"
     },
     "type" : "Feature"
   }, {
@@ -45,8 +522,115 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2 950 rb",
-      "address" : " "
+      "name" : "data 2-950 rb"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.8787044999999996, 105.1350264 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/40RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.5467222, 106.81930559999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/2,9JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.9094167, 119.8040556 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOKASI 1/PT. BUMI PERKASA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.5726111, 106.7972222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/13,2JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.9817221999999997, 122.58347219999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/836RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1536944, 119.45875 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/4,2JT/A.N ELMY"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.7751110999999997, 122.07199999999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/196RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1547591, 106.74685099999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/11,4JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.8617777999999999, 134.04825 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/946RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2847778, 106.9530278 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/GRAHA INDAH/LL DKI/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5720833, 140.5310556 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/1,3JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.4165278, 119.44108329999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/880RB/19"
     },
     "type" : "Feature"
   }, {
@@ -55,8 +639,25 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 6",
-      "address" : " "
+      "name" : "Data 6"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.8511666999999999, 134.0388611 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/356RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.5716198, 133.1105876 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/14,4RB"
     },
     "type" : "Feature"
   }, {
@@ -65,8 +666,88 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek",
-      "address" : " "
+      "name" : "objek"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.223659199999999, 106.6194259 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/SWRK/27RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1671944, 119.5823611 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "LOK4/TK/CV.MARINE/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.4753056, 118.7277139 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/726RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8954722, 119.8071667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TKGD/PT. BUMI PERKASA/LOK 3"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.8363333, 109.96924999999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOKASI 4/QUALITA/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6254166999999999, 123.0164896 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Data 1"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1544167, 119.4356667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DATA 2-RK-15,2 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.4718389, 118.73120279999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT4/TK/75ORB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.889747, 123.021557 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/58,5RB/19"
     },
     "type" : "Feature"
   }, {
@@ -75,18 +756,43 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3 31 JT",
-      "address" : " "
+      "name" : "DATA 3-31 JT"
     },
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -7.0210969, 110.42006459999999 ],
+      "coordinates" : [ -3.8748332999999997, 119.8163611 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek 3",
-      "address" : " "
+      "name" : "OBJEK/TKRGD/CV.MATTAPPAWALIE"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1356110999999998, 106.12827779999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOKASI 4/PT. WIRAJAY INTERNUSA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.2105447, 119.4638306 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/2,1JT/306 GOA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2878889, 106.7068889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/3,2JT/19"
     },
     "type" : "Feature"
   }, {
@@ -110,11 +816,56 @@
     "type" : "Feature"
   }, {
     "geometry" : {
+      "coordinates" : [ -5.7570109, 132.6754367 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/25RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.9046388999999997, 119.8041667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/820RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.8869444, 134.0361667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/237RB/A.N M. TAHIR"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.5148591, 106.85518169999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKPB/4,2JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -2.5979167, 140.6505278 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2 2,5 JT"
+      "name" : "DATA 2 2,5 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5641388999999997, 140.49352779999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK 10/QUALITA/19"
     },
     "type" : "Feature"
   }, {
@@ -123,7 +874,16 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek"
+      "name" : "OBJEK-25 JT-(ok)"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.5310833, 119.43683329999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK3/CV. MARINE/19"
     },
     "type" : "Feature"
   }, {
@@ -138,11 +898,74 @@
     "type" : "Feature"
   }, {
     "geometry" : {
+      "coordinates" : [ -5.752690299999999, 132.6814288 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/16 RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1201944, 119.514 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK 5/QUALITA/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.2755407, 112.80740139999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/17 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.4891467, 133.1396949 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/306/A.N IDA BERUAT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -6.5118889, 107.40847219999999 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3 370 rb"
+      "name" : "data 3 370 rb"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3403611, 135.52002779999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/550RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.9099694, 116.75074719999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT4/TRTKOS/SHM/160RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.2291667, 135.5898889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKKV/157RB"
     },
     "type" : "Feature"
   }, {
@@ -151,7 +974,34 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2 315 RB"
+      "name" : "DATA 2 315 RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.2361243, 119.5488865 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/595RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.2556667, 112.7449444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT4/SWRK/32RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1327777999999995, 119.4125 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/SWRK/59RB/M/B"
     },
     "type" : "Feature"
   }, {
@@ -160,7 +1010,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1"
+      "name" : "DATA 1"
     },
     "type" : "Feature"
   }, {
@@ -169,7 +1019,25 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3 5,5 JT"
+      "name" : "DATA 3-5,5 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.0362528, 120.4317926 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Data 7"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6281846999999999, 123.0067777 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/71RB/TK"
     },
     "type" : "Feature"
   }, {
@@ -178,7 +1046,16 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek LOK 5"
+      "name" : "OBJEK LOK 5"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1614444, 119.47586109999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/2,5JT/19"
     },
     "type" : "Feature"
   }, {
@@ -187,21 +1064,84 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1 MIRWAN 4,9 JT"
+      "name" : "DATA 1-4,9 JT-MIRWAN"
     },
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -2.5719167, 140.5208056 ],
+      "coordinates" : [ -5.1531667, 119.4351111 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3 3,1 JT"
+      "name" : "DATA 2-11,5 JT"
     },
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ 1.0818101, 127.4836423 ],
+      "coordinates" : [ -5.194929999999999, 119.498885 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "objek 306 goa/a.n saharia"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.6693889, 115.211 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/SWRK/101RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.86325, 134.0430833 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/1,2JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2811667, 106.79652779999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/SWRK/115RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3488333, 135.5169722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RT/A.N LILY ANGGRAINI"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.156888899999999, 119.5878056 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/297RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.7024798, 127.55389 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OB/204/NO.1/SOFIFI/9.786 M2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.0370594, 120.43125479999999 ],
       "type" : "Point"
     },
     "properties" : {
@@ -210,11 +1150,254 @@
     "type" : "Feature"
   }, {
     "geometry" : {
+      "coordinates" : [ -3.6280832999999997, 128.19308329999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/375RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1558303, 106.74548809999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/7,6JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1481110999999995, 119.43188889999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/RK/8JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.7030039, 127.55436619999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/57RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9016506999999999, 119.8609314 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "data 5"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3669721999999997, 135.4885833 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/A.N JUBAEDAH"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3413611, 135.51877779999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/600RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.517861099999999, 106.8528611 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/PABRIK/PT. KUSUMA KAISAN"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.1692221999999999, 122.6436667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TKRT/LLMANDIRI/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.5025717, 119.81474619999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKSW/28,5rb/18"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2495278, 106.7976667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/62RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.167138899999999, 119.4408333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RT/RAHMAT RODEL/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5719167, 140.5208056 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DATA 3-3,1 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1480277999999995, 119.43194439999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK1/RK/CV. PUTERI JAYA/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1543437999999995, 119.44551179999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "rumah di kontrakan"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1053333, 119.4791667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TK/PT.PARANGLOE INDAH"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.4774446, 118.72722239999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/NPW/SAMBINAE"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 1.0818101, 127.4836423 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "data 3"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1517222, 119.40716669999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/13,5JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.252019, 112.55623 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/NPTK/450RB/M"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1560278, 106.13449999999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/475RB/PT. WIRAJAY INTERNUSA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8758888999999996, 119.8179167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Objek/TK/LOK 3/CV.MATTAPPAWALIE"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.9079222, 116.7608472 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT7/TRANS/SPOR/TKEBUN/12,5RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6152206, 123.0276148 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/57RB/TKSW"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -6.1452569, 106.19359109999999 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3 tanah kosong 2,5 jt (9.745 m2)"
+      "name" : "data 3 tanah kosong 2,5 jt (9.745 m2)"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.5761389, 106.7998056 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/14,3JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.275741999999999, 112.807355 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OB/RT/PT.INDOGRAFIKA/JTRUST"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2226913999999995, 106.6195133 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/SWRK/29RB/19"
     },
     "type" : "Feature"
   }, {
@@ -223,7 +1406,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1 2,2 JT"
+      "name" : "DATA 1-2,2 JT"
     },
     "type" : "Feature"
   }, {
@@ -232,7 +1415,79 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1"
+      "name" : "data 1"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.9248111, 116.75795 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKGD&PT/281RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8954443999999997, 119.8083333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/900RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.754014, 132.68376229999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/306/A.N JAMRUD/15,2RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6353056, 123.01066669999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "data baru"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.447744, 105.26430789999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/811 Rb/bln/SW"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6137161, 123.0255461 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/23RB/TKSW"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.607199499999999, 110.7934181 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/7,4JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.9040277999999997, 119.8043611 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/810RB"
     },
     "type" : "Feature"
   }, {
@@ -241,7 +1496,25 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2"
+      "name" : "data 2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8756388999999998, 119.8180556 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TK/LOK2/CV.MATTAPPAWALIE"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1649443999999995, 106.7779722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/RK/15JT"
     },
     "type" : "Feature"
   }, {
@@ -250,7 +1523,97 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2"
+      "name" : "data 2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.0263056, 131.3161667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/432RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5721388999999997, 140.53447219999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TK/PT. SATRIA ALAM JAYA/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.0350477, 120.4307482 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Data 6"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.92175, 116.7566111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT44/TRANS/TKSW/33,3RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.477744399999999, 118.7378667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/1,05JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1534167, 119.43547219999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DATA 1-12 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.242999999999999, 106.9465556 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/3,8JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.9217713, 107.5983394 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Objek/SWKT/Bank BPD Banten"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1076110999999997, 106.1120833 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RK/1193/18"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2782504999999995, 107.0733472 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/3JT/19"
     },
     "type" : "Feature"
   }, {
@@ -260,7 +1623,88 @@
     },
     "properties" : {
       "address" : "Jl. Jendral Sudirman No.51, Gedung Nasional, Taman Sari, Kota Pangkal Pinang, Kepulauan Bangka Belitung 33684, Indonesia",
-      "name" : "Objek"
+      "name" : "objek"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9766667, 122.78580559999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/RK/15,6JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.598287, 123.10852299999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "LOK3/55RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.9914722, 122.56816669999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Objek/Benny Wijaya/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.178126, 106.689664 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RT/PT.TIARA JAYA TUNGGAL/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.6604179, 132.96367759999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "dt3/tk/70rb"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.4720178, 121.436526 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "suku bajo sulteng"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.874025, 116.8081694 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT/TKEBUN/SPOR/36RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.5036944, 108.9124167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/225RB/18"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.8786362, 105.11257769999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT4/TK/90RB/19"
     },
     "type" : "Feature"
   }, {
@@ -269,7 +1713,133 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3"
+      "name" : "data 3"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2606654, 106.7964635 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/SW/BPD BANTEN/DANY"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1605278, 119.39125 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/9JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1389722, 106.1400556 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/3,5JT/18"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.020777799999999, 119.5722778 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/3,5JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.293444399999999, 106.62052779999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RK/A.N RUDY ISKANDAR/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.924665, 123.036341 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/64RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8860555999999997, 122.04022219999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/420 RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.577723, 112.148235 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/NPTK/850RB/M"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.10675, 106.1123889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/RK/8,1JT/PT.WIRAJAY INTERNUSA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.5154722, 119.43366669999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/150RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2705278, 106.76194439999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/SWRK/54RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.8391666999999998, 109.9711111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/2,7JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.2553056, 112.7439167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT5/SWRK/19RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.8334721999999999, 109.9612222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/3,3JT/19"
     },
     "type" : "Feature"
   }, {
@@ -279,7 +1849,52 @@
     },
     "properties" : {
       "address" : "Jl. Sunter Muara Baru, Sunter Agung, Tj. Priok, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta, Indonesia",
-      "name" : "Data pt yakin"
+      "name" : "data pt yakin"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2198439, 106.7414515 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/SWRK/38RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1681389, 106.8186667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Objek/RK/PT.Dakara Makmur/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.105027799999999, 119.4604722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/1,9JT/16"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.618096, 123.0063077 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOKASI 5"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.8365277999999998, 109.9707222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/880RB/19"
     },
     "type" : "Feature"
   }, {
@@ -288,16 +1903,160 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek"
+      "name" : "objek"
     },
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -7.013268999999999, 110.418764 ],
+      "coordinates" : [ -6.1164444, 106.7783333 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1 mbak rully 10 jt"
+      "name" : "DT4/RKSW/55RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.7000721999999999, 127.55164029999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK LAMA -33 RIBU/M2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.6791171, 115.2043545 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/SWRK/79RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.34525, 107.03577779999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT4/TK/2,7JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.4171111, 119.4383333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TK/SULSELBAR/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.9145389, 116.74537219999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/SHM/330RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.9095111, 116.7613389 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT12/TRANS/TKBUN/SPOR/29RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2893333, 106.7069444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/3,8JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2914167, 106.7974167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK THE CEO"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2731943999999995, 106.7438889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/SWRK/53RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3434166999999997, 135.51647219999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/RK/5,9JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.4817276, 119.8156999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKSW/ 28,5rb/18"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1561389, 119.4953889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/4,3JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.4217222, 135.47319439999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/285RB/A.N ABDUL AZIZ"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.0606552, 120.46013749999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Data 5"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1604149999999995, 106.89487899999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RT/BUANA ARTA/JTRUST/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.222703699999999, 119.55500099999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/595RB/19"
     },
     "type" : "Feature"
   }, {
@@ -306,7 +2065,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2 2 JT"
+      "name" : "DATA 2-2 JT"
     },
     "type" : "Feature"
   }, {
@@ -315,16 +2074,233 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3 2,1 JT"
+      "name" : "DATA 3 2,1 JT"
     },
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -7.0117674, 110.41667679999999 ],
+      "coordinates" : [ -0.9041452, 119.8575789 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek"
+      "name" : "Data 3"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5645, 140.5207778 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK 12/QUALITA/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.4733556, 118.71063609999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DATA2/TK/250RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.8740413, 105.18968129999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT7/TK/122RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.6591740999999995, 132.9872382 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "objek/306/a.n darwis"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1325556, 119.41202779999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/SWRK/32RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9289444, 122.8413611 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/1,2JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6387756, 123.006546 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Unnamed Road, Hutuo, Limboto, Gorontalo, 96137, Indonesia",
+      "name" : "Lokasi 2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.596865, 123.10615299999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/35RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.4839556, 118.76726389999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/285RB/17"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.8549722, 134.0407222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RT/LLBNI/A.N YONATHAN BORO"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3738056, 135.5022778 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/RK/10JT/A.N IWAN KUNCORO"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.23875, 106.7789167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT5/SWRK/52RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9698333, 122.78708329999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK 2/RK/RRMANDIRI/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3775556, 135.5040833 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/RK/10JT/A.N IWAN KUNCORO"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.5073611, 119.4306944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/190RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.242249999999999, 106.94386109999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/4,5JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.220009699999999, 106.74052139999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/SWRK/40RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1105, 106.1124722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/RK/8,5JT/PT. WIRAJAY INTERNUSA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.545444, 106.8193723 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RT/DIANA NURSANTI/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.925625, 116.7582889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT6/TK/SHM/225RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.8750445, 105.1932982 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT9/TK/108RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1615, 119.4759722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK1/RT/CV. PUTERI JAYA/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.531222199999999, 119.4364722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK 1/CV. MARINE"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.231434999999999, 119.430977 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKSW/391RB"
     },
     "type" : "Feature"
   }, {
@@ -333,7 +2309,115 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek LOK 3"
+      "name" : "OBJEK LOK 3"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9046388999999999, 131.3251111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/4,5JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1549722, 119.3966111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TK/PT.PASSOKORANG/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.15625, 119.5909167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/225RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.161194399999999, 106.7774444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/11,2JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8806111, 122.0403611 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/384 RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.6061844, 110.791327 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT5/TK/5,5JT/LT 6527"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8839167, 122.0404722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/400RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.0977222, 119.4960833 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKGD/2,4JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.9198774, 107.5959687 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/SWKT/50RRB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5551944, 140.5203611 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/400RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8900555999999997, 119.81886109999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/67RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.4243056, 135.47275 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/308RB/A.N ABDUL AZIZ"
     },
     "type" : "Feature"
   }, {
@@ -342,7 +2426,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1"
+      "name" : "data 1"
     },
     "type" : "Feature"
   }, {
@@ -351,7 +2435,16 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek"
+      "name" : "OBJEK"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.9083139, 116.7613028 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT8/TRANS/SPOR/TKKEBUN/7,4RB/19"
     },
     "type" : "Feature"
   }, {
@@ -360,7 +2453,16 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek"
+      "name" : "objek"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.3621111, 119.6347778 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/SEMENBOSOWA/19"
     },
     "type" : "Feature"
   }, {
@@ -369,7 +2471,16 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2 300 rb"
+      "name" : "data 2 300 rb"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3674722, 135.48825 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/RK/13JT"
     },
     "type" : "Feature"
   }, {
@@ -378,7 +2489,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2"
+      "name" : "DATA 2"
     },
     "type" : "Feature"
   }, {
@@ -387,7 +2498,160 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3"
+      "name" : "data 3"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2393056, 106.7915 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/SWRK/70RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.1677777999999999, 122.6447778 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/100RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.8614999999999999, 134.0479444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/1,2jt"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.115823499999999, 106.7766565 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/SWRK/41RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.206024, 119.48456499999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "objek/306/goa"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.909469399999999, 116.7628889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT10/TRANS/TKEBUN/SPR/7,5RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8619999999999997, 119.84177779999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/55RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1300833, 106.1155 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/RK/8,4JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.178656999999999, 106.68955199999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/7,6JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2853889, 107.0711944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TK/LIKOTAMA/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2105, 106.1341111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "objek 306-Pasar Baros"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3662221999999997, 135.48869439999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RT/A.N LA UDUS"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.9821389, 122.58274999999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/880RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.4786278, 118.7396 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT7/TK/315RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3686944, 135.48575 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/A.N JUBAEDAH"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1157656, 106.77650639999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/SWRK/44RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.6587363, 132.986573 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "dt2/tk/50rb"
     },
     "type" : "Feature"
   }, {
@@ -396,7 +2660,25 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2 5,1 JT"
+      "name" : "DATA 2-5,1 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.5675278, 136.8791389 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRW/1,8JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1356582, 106.12747139999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOKASI 3/PT. WIRAJAY INTERNUSA"
     },
     "type" : "Feature"
   }, {
@@ -405,7 +2687,34 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1"
+      "name" : "DATA 1"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.9890833, 122.5644722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/630RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.146249999999999, 106.8306944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/PT.KUSUMA KAISAN"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.2295, 135.5881389 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT/TK/176RB"
     },
     "type" : "Feature"
   }, {
@@ -414,7 +2723,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3"
+      "name" : "DATA 3"
     },
     "type" : "Feature"
   }, {
@@ -423,7 +2732,34 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2 1,5 JT"
+      "name" : "DATA 2-1,5 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.5601667, 106.7626111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/RK/9,3JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.0378889, 119.5699444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/2JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.492703, 133.13675519999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/14,4RB"
     },
     "type" : "Feature"
   }, {
@@ -432,7 +2768,52 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1"
+      "name" : "data 1"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2224444, 106.13077779999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Data 2-1,1 Jt"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1600556, 119.4026667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/11,7JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.167611099999999, 106.81908329999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/RK/20JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.5686667, 106.8058056 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LL/DKI/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1726111, 119.3931944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/14,25JT/18"
     },
     "type" : "Feature"
   }, {
@@ -442,7 +2823,79 @@
     },
     "properties" : {
       "address" : "LKP Super Bimbel GSC, JL. Jenderal Ahmad Yani, No. 97 B, Batin Tikal, Taman Sari, Kota Pangkal Pinang, Kepulauan Bangka Belitung 33684, Indonesia",
-      "name" : "Data 3"
+      "name" : "data 3"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.7536324, 132.6843846 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "objek/306/a.n amir fagi"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6135558999999999, 123.0267011 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/38RB/TKSW"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.1822222, 135.7282222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/47RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9993611, 122.7827222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/318RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2421944, 106.7915 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Objek/BPDBANTEN/SW/MAYESTIK"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1105833, 106.1124722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/RK/7,4JT/PT. WIRAJAY INTERNUSA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.9097556, 116.7620611 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT11/TRANS/TKEBUN/SPOR/10RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2859003, 106.7806176 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/SWRK/287RB/19"
     },
     "type" : "Feature"
   }, {
@@ -457,6 +2910,33 @@
     "type" : "Feature"
   }, {
     "geometry" : {
+      "coordinates" : [ 0.6338469, 123.0058 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/333RB/TKRT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.7634444, 122.05627779999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/225RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.4571110999999997, 135.45377779999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LLBNI/TK/A.N ABDUL AZIZ"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -6.1811887, 106.6263628 ],
       "type" : "Point"
     },
@@ -467,11 +2947,20 @@
     "type" : "Feature"
   }, {
     "geometry" : {
+      "coordinates" : [ -5.196184, 119.48769399999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/1,4JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -2.5831111, 140.6434167 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1"
+      "name" : "data 1"
     },
     "type" : "Feature"
   }, {
@@ -480,7 +2969,124 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2 lelang bni"
+      "name" : "data 2 lelang bni"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.8338055999999998, 109.97027779999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/921RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1607778, 106.83616669999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/11JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1816667, 119.3944444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/13,2JT/18"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.4886554, 133.1397486 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/A.N HENCI BERUATWARIN"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5545833, 140.5179444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/PT. SATRIA ALAM JAYA/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9994721999999999, 122.7824167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/250RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.893682, 116.753756 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TRAN/SPO/RT/50RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.6711254, 115.2097256 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT5/SWKT/115RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1205833, 119.5114722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/7,5JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.9096694, 116.7616333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT14/TRANS/TKEBUN/SPOR/7,5RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.5784739, 110.78466759999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT4/TK/3JT/LT2200"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9282499999999999, 122.8412778 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LLMANDIRI/RONALD/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.462622199999999, 106.75181049999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Rumah Mas Dany"
     },
     "type" : "Feature"
   }, {
@@ -489,7 +3095,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3"
+      "name" : "data 3"
     },
     "type" : "Feature"
   }, {
@@ -498,7 +3104,61 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3 4,5 JT"
+      "name" : "DATA 3-4,5 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9690114, 120.31022519999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Data 1"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1199444, 119.4146389 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/RK/8,4JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.605891, 123.099933 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3-REV/TK/62RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1359722, 106.1255278 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/RK/6,8JT/PT.WIRAJAY INTERNUSA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.9129837, 116.7528207 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT/NET/TKRT/201RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.119805599999999, 119.41616669999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/RK/10,2JT/19"
     },
     "type" : "Feature"
   }, {
@@ -507,7 +3167,142 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1 a/n Ferry Dame Lelang BNI 2,3 Jt"
+      "name" : "data 1 a/n Ferry Dame Lelang BNI 2,3 Jt"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9570556, 122.7920278 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/RK/6,7JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1614721999999995, 119.4623611 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LELANG BNI/A.N ELMA FATY GUNADI/18"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1463171999999995, 106.7206398 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT4/TK/7,6JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.925604, 123.02139899999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/75RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.8537777999999999, 134.0395556 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/118RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.7879443999999998, 122.0836111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/PT. ANG & FANG/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.237552, 119.42906199999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/1,4JT/306GOA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.0262778, 119.5699444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/2,5JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8563889, 119.8791389 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/25RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2558611, 106.11980559999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Data 3-950 Rb"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1678888999999995, 119.4371944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/4,7JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8618056, 119.9113333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TK/LOK8/CV.MATTAPPAWALIE"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.8770146, 105.12555599999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/63RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1668332999999995, 106.9011111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/SWRK/98RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.545333299999999, 103.05791669999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/204/BENGSEL/19"
     },
     "type" : "Feature"
   }, {
@@ -516,7 +3311,151 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1 M ADAM 2,5 JT"
+      "name" : "DATA 1-2,5 JT- M ADAM"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.160595, 106.89559799999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/31,3JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.8952694, 116.7760861 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT5/SPO/TKRT/75RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8855277999999998, 122.0403333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK 3/CV. SINAR PRIMA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1363056, 106.1352778 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/3,6JT/18"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.299396, 107.06679899999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/2,7JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2801111, 107.0741389 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/3,2JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.5149444, 106.8583333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKPB/4,7JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.9826389, 122.5873611 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/630RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.6705395, 115.2101168 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT4/SWRK/115/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.8915141, 105.0816344 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT6/TK/200RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.19325, 106.8432778 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "objek LL BNI a.n Marhana"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2831243, 106.7806624 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/SWRK/DKI/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.906737799999999, 107.5959512 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/SWKT/98RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.4215278, 135.4736944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/300RB/A.N ABDUL AZIZ"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8850833, 122.04083329999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK 1/CV. SINAR PERMAI"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5576944, 140.5172222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/360RB/19"
     },
     "type" : "Feature"
   }, {
@@ -525,7 +3464,61 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1 270 RB"
+      "name" : "DATA 1-270 RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1493889, 119.43497219999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/RK/11,2JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.253895, 112.54477399999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/NPTK/900RB/M"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3711667, 135.4810278 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/766RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.58407, 112.16505699999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/NPTK/495RB/M"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.0450417, 105.1809155 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/375RB/1193/18"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.156972199999999, 119.5862222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/225RB/19"
     },
     "type" : "Feature"
   }, {
@@ -535,7 +3528,43 @@
     },
     "properties" : {
       "address" : "Jl. Yos Sudarso, Kota Pangkal Pinang, Kepulauan Bangka Belitung 33172, Indonesia",
-      "name" : "Data 1"
+      "name" : "data 1"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2253055999999996, 106.84772219999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/SWRK/109RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8763332999999998, 119.9328333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/22RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.7014746, 127.5517072 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/54RB/50.000 M2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.6655, 115.21561109999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/SW/BANK BPD BANTEN"
     },
     "type" : "Feature"
   }, {
@@ -544,7 +3573,89 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2 28 JT"
+      "name" : "DATA 2 28 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.222843999999999, 106.618973 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "PT.Global Center Consulting, Karawaci Office Park Blok A No. 51, Karawaci, Panunggangan Bar., Kec. Tangerang, Kota Tangerang, Banten 15138, Indonesia",
+      "name" : "DT3/SWRK/18RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9516943999999999, 122.7903889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RK/SUARDI/LLMANDIRI/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2891943999999995, 106.70675 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/3,9JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.503827, 108.911633 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/335RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1246944, 119.40969439999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/SWRK/63RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.6592274, 132.9861009 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "dt1/tk/56rb"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1375832999999997, 106.13141669999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK LOKASI 5/PT. WIRAJAY INTERNUSA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.270777799999999, 106.7566944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/SWRK/DKI/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1721943999999995, 119.4225556 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DATA 1-15,5 JT-Ruko"
     },
     "type" : "Feature"
   }, {
@@ -553,7 +3664,43 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek AN MIRWAN"
+      "name" : "OBJEK AN MIRWAN"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1461944, 106.83149999999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/RK/15,2JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5700833, 140.51636109999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/5,6JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1560042999999998, 106.1352534 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/496RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.898299999999999, 116.7735972 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TRNSKSI/SPO/TK/33RB/19"
     },
     "type" : "Feature"
   }, {
@@ -567,12 +3714,156 @@
     "type" : "Feature"
   }, {
     "geometry" : {
+      "coordinates" : [ -5.1600833, 119.4759722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/3,3JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.4811917, 118.73951389999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT8/TK/225RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.5537219999999999, 123.132927 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/400RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1932504, 106.8430035 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Data/3/2jt/234"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1632210999999995, 106.8363351 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/16,2JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.0001944, 122.7775278 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK2/TK/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8580832999999997, 119.81816669999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/414RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.1823056, 135.7299722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LL/A.N JUBAIDAH/LOK 4"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.892643, 116.75526599999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TRANSKSI/SPO/TK/55RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -8.6378503, 115.20712689999999 ],
       "type" : "Point"
     },
     "properties" : {
       "address" : "Jl. Cokroaminoto No.99a, Pemecutan Kaja, Denpasar Utara, Kota Denpasar, Bali 80111, Indonesia",
-      "name" : "Objek"
+      "name" : "objek"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1476143, 106.8388731 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/31,5 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8665556, 119.9093889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TK/LOK7/CV.MATTAPPAWALIE"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1633610999999995, 106.8360278 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/16,6JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9780278, 122.7856389 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/RK/12,1JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.9667037, 112.63390559999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT4/SWRK/54RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1173889, 133.53375 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/RK/8 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.4761171, 112.70952039999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "rumah om edy"
     },
     "type" : "Feature"
   }, {
@@ -581,7 +3872,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek LOK 6"
+      "name" : "OBJEK LOK 6"
     },
     "type" : "Feature"
   }, {
@@ -590,7 +3881,43 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2 6 JT"
+      "name" : "DATA 2 6 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.0445572999999997, 105.19382549999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOKASI 9/1193/18"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2941389, 106.78474999999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/SWOF/SOUTH QUARTER DOME/341RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.5467222, 106.8195556 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/3,8JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.5217778, 103.0211111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/94RB/19"
     },
     "type" : "Feature"
   }, {
@@ -599,7 +3926,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1"
+      "name" : "data 1"
     },
     "type" : "Feature"
   }, {
@@ -608,7 +3935,52 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3"
+      "name" : "data 3"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5639722, 140.4974167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/3,7JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5724167, 140.51647219999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK 7/QUALITA/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2782222, 106.7971111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/149RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1355, 106.12124999999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OB LOK 1/AG.PERMATA/PT WARAJAY INTERNUSA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.31557, 119.43600599999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKSW/285RB"
     },
     "type" : "Feature"
   }, {
@@ -617,7 +3989,25 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek ROYKY PHILIPUS"
+      "name" : "OBJEK ROYKY PHILIPUS"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1771259999999995, 106.689396 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/6,3JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2837925, 106.78091769999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/SWRK/87RB/19"
     },
     "type" : "Feature"
   }, {
@@ -626,7 +4016,52 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2"
+      "name" : "data 2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.53025, 119.4368611 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/225EB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5734999999999997, 140.5335278 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/1,2JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5640278, 140.4976389 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/3,5JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.161731, 106.9042996 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/RKSW/82RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2411389, 106.94438889999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RT/PARADONG/LL DKI/19"
     },
     "type" : "Feature"
   }, {
@@ -635,7 +4070,124 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3"
+      "name" : "data 3"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1680278, 119.44125 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/3,6JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.9091667, 116.7615833 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT6/TRANS/SPO/TKEB/7,5RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1056111, 119.5017778 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKGD/1,8JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9764999999999999, 122.7858333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/RK/14,2JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.2550555999999995, 112.75049999999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/SWRK/57RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.2558611, 112.7508333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/SWKT/35RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.5450555999999995, 103.0578333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/47RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1071944, 119.4995 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "objek/Gudang/PT. Wahyu Pradana"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.220304, 119.48544899999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "dt3/tk/1,125jt"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.4306943999999997, 135.4769167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TK/A.N MUHAIMIN"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.8789675, 105.1316623 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/57RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2199349, 106.74127109999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/SWRK/DKI/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3400833, 135.5219167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/590RB"
     },
     "type" : "Feature"
   }, {
@@ -644,7 +4196,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 4 40 JT"
+      "name" : "DATA 4-40 JT"
     },
     "type" : "Feature"
   }, {
@@ -653,7 +4205,25 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1 9,2 JT"
+      "name" : "DATA 1-9,2 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.5313611, 106.7610833 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/RK/7,3JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3415556, 135.5173889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RT/A.N IKHWAN SETIWAN"
     },
     "type" : "Feature"
   }, {
@@ -662,7 +4232,16 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1 ROYKE PHILIPUS 2,7 JT"
+      "name" : "DATA 1-2,7 JT-ROYKE PHILIPUS"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.596532, 123.10781999999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK 1/52RB/204/PAKET 1/19"
     },
     "type" : "Feature"
   }, {
@@ -671,7 +4250,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2"
+      "name" : "data 2"
     },
     "type" : "Feature"
   }, {
@@ -680,7 +4259,43 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3"
+      "name" : "DATA 3"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3713333, 135.4805278 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/555RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2721667, 106.75472219999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/SWRK/45RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.7562183, 132.6753187 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/28RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.35975, 135.5013333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/RK/11,8JT/A.N BURHANUDIN"
     },
     "type" : "Feature"
   }, {
@@ -689,7 +4304,25 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3 1 jt"
+      "name" : "data 3 1 jt"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.8854721999999999, 134.03655559999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/285RB/A.N M. TAHIR"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.9059351, 107.6105601 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT4/SWKT/105RB/M/B"
     },
     "type" : "Feature"
   }, {
@@ -698,16 +4331,116 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1 194 rbu"
+      "name" : "data 1 194 rbu"
     },
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -7.010634, 110.41722299999999 ],
+      "coordinates" : [ -1.8371666999999998, 109.97097219999999 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3 mbak rully 7,3 jt"
+      "name" : "DT2/TK/900RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9076738, 119.8564433 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Jl. Sis Aljufri, Boyaoge, Palu Bar., Kota Palu, Sulawesi Tengah 94111, Indonesia",
+      "name" : "Data 2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.116972199999999, 106.7808333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/SWRK/50RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.9896944, 122.57252779999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/630RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.89925, 119.8052778 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TKGD/PT. BUMI PERKASA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.597044, 123.109569 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "LOK 2/51RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.211167, 119.46244399999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TK/306 GOA/A.N ST AMINAH"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.0451208, 105.1942132 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/380RB/1193/18"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1422499999999998, 106.1323056 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT 1/TK/475RB/PT. WIRAJAY INTERNUSA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1621682, 106.7338408 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/7,6 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.1635556, 122.6551944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/111RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5695555999999997, 140.5155833 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/5JT/19"
     },
     "type" : "Feature"
   }, {
@@ -716,7 +4449,79 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2 2,2 JT"
+      "name" : "DATA 2-2,2 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5640278, 140.4935556 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK 11/QUALITA/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.921951, 123.051311 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/GORUT/PUSKESMAS/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.8777403999999995, 105.1137771 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT5/TK/108RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.3813610999999995, 119.6292222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/315RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6243985, 123.0151274 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Lokasi 4"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2610556, 106.7969167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/SWKT/128RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.493204899999999, 133.136605 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/306/14,4RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.57, 140.5158056 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK 8/QUALITA/19"
     },
     "type" : "Feature"
   }, {
@@ -731,11 +4536,129 @@
     "type" : "Feature"
   }, {
     "geometry" : {
+      "coordinates" : [ -4.875026399999999, 105.1930818 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT8/TK/125RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.128615, 106.1178925 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/RK/12JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -2.5589999999999997, 140.49236109999998 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1"
+      "name" : "data 1"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.598, 123.108836 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "LOK 5/50RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6225252, 123.0149544 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Jl. Prof. Dr. H. Mansoer Pateda, Pentadio Tim., Telaga Biru, Gorontalo, 96181, Indonesia",
+      "name" : "DT2/2,4JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1301388999999995, 119.4070833 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/SWKT/BANK BPD BANTEN"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6255354, 123.0169348 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Data 2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.9506877, 112.63944479999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/SWRK/87RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.282638899999999, 106.9543056 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/3,3JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6375227, 123.0106709 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/323RB/TKRT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2086388999999995, 106.1351667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Data 1-665 rb"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8792777999999997, 122.0398333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK 2/CV. SINAR PERMAI"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1699167, 119.41872219999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DATA 3-RK-16,1 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.255694399999999, 112.74725 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/SWKT/BPD BANTEN"
     },
     "type" : "Feature"
   }, {
@@ -744,7 +4667,16 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek LOK 2"
+      "name" : "OBJEK LOK 2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.5480832999999999, 108.9222222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/315RB"
     },
     "type" : "Feature"
   }, {
@@ -753,7 +4685,34 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2 1,5 jt"
+      "name" : "data 2 1,5 jt"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.299194399999999, 106.8317222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/SWOF/18OFFICEPARK/195RB/M"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9300556, 122.84525 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/1,5JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.5698333, 136.8762222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK 6/QUALITA/19"
     },
     "type" : "Feature"
   }, {
@@ -763,7 +4722,16 @@
     },
     "properties" : {
       "address" : "Jl. Masjid Jamik, Kota Pangkal Pinang, Kepulauan Bangka Belitung 33684, Indonesia",
-      "name" : "Data 2"
+      "name" : "data 2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2877778, 106.70783329999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/SENTA/LL/DKI/19"
     },
     "type" : "Feature"
   }, {
@@ -772,7 +4740,34 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek LOK PURWAKARTA JL MANGGA DUA"
+      "name" : "OBJEK LOK PURWAKARTA JL MANGGA DUA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.580062, 112.15554 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/NPTK/495RB/M"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.7634444, 122.05980559999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/180RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3597778, 135.5013333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/RK/12,5JT/A.N IWAN KUNCORO"
     },
     "type" : "Feature"
   }, {
@@ -781,7 +4776,16 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek LOK 1 JAINUM"
+      "name" : "OBJEK LOK 1 JAINUM"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.161433, 106.89694 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/30,4JT/19"
     },
     "type" : "Feature"
   }, {
@@ -790,7 +4794,152 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2"
+      "name" : "data 2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1624167, 119.4635278 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/7,3JT/A.N ELMY"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.34325, 135.5165 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/RK/4,6JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.1833611, 135.7298611 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/40RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8845832999999996, 119.8114167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/390RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1502306, 106.134034 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/977RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.9924166999999997, 119.8852778 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/PT. TORAJA MASILIANA/HOTEL/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.6185960999999995, 110.7744061 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT6/TK/1,1JT/LT2325/1 PATOK KUNING"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2930278, 106.62061109999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/RK/23,4JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.2251944, 135.5844167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TK/A.N LA UDUS"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.2458889, 119.5535 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/180RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1618056, 106.83633329999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RT/PT. KUSUMA KAISAN"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.2301667, 119.4411944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "objek/TK/306 GOA/A.N MUHAMMAD ZANOER"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1284449999999997, 106.11813199999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/RK/9,8JT/PT. WIRAJAY INTERNUSA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.0036943999999997, 119.8740278 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/3,4JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.8933766999999999, 119.8663132 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Jl. Dr. Wahidin No.20, Besusu Bar., Palu Tim., Kota Palu, Sulawesi Tengah 94111, Indonesia",
+      "name" : "Data 4"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1862222, 106.8427778 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DATA 2-12 JT"
     },
     "type" : "Feature"
   }, {
@@ -799,7 +4948,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3"
+      "name" : "data 3"
     },
     "type" : "Feature"
   }, {
@@ -808,7 +4957,61 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2"
+      "name" : "DATA 2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1432167, 106.7300569 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/UNIV SATYAGAMA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.5729444, 106.8027778 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/14JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.8253528, 116.81832779999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT10/TK/SHM/270RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.0390964999999999, 120.4432061 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Data 4"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.5148056, 106.8553889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKPB/4,2JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5723333, 140.51638889999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/5,4JT/19"
     },
     "type" : "Feature"
   }, {
@@ -817,7 +5020,25 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3 2,2 jt"
+      "name" : "data 3 2,2 jt"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2449444, 106.7939444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/SWRT/58RB/B/M"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3472777999999996, 135.5181944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/798RB"
     },
     "type" : "Feature"
   }, {
@@ -826,16 +5047,88 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1"
+      "name" : "daTA 1"
     },
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -7.01425, 110.41874999999999 ],
+      "coordinates" : [ -6.205361099999999, 106.8576944 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1 32 JT"
+      "name" : "DT3/TK/35JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8568056, 119.81844439999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/450RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.7532507, 132.68389639999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK A.N ABU BAKAR"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.2285556, 119.4399722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/306/TK/A.N H.ISMAIL TOBO"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6282777999999998, 128.1907778 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/375RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.168749999999999, 106.8178056 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/RK/19JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.172936399999999, 119.3943932 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RT/PT. WAHYU PRADANA/AG BNI"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.2107, 119.46124599999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/2,5JT/306 GOA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.240666699999999, 106.8445 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/SWRK/DKI/19"
     },
     "type" : "Feature"
   }, {
@@ -844,7 +5137,25 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1 JAENUM 1,3 JT"
+      "name" : "DATA 1-1,3 JT- JAENUM"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.165594899999999, 106.9018528 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/SWRK/132RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.5684167, 136.8788889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRW/1,6JT/19"
     },
     "type" : "Feature"
   }, {
@@ -853,7 +5164,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data  3 45O RB"
+      "name" : "DATA  3-45O RB"
     },
     "type" : "Feature"
   }, {
@@ -862,16 +5173,43 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3 1,4 JT"
+      "name" : "DATA 3 1,4 JT"
     },
     "type" : "Feature"
   }, {
     "geometry" : {
-      "coordinates" : [ -7.009962, 110.41666199999999 ],
+      "coordinates" : [ -7.25625, 112.75091669999999 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2 mbak rully 10 jt"
+      "name" : "DT3/SWRK/58RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1351389, 106.1233611 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/RK/6,3JT/PT.WIRAJAY INTER"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3658056, 135.4921111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/1JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.252138899999999, 119.55336109999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK5/CV.MARINE"
     },
     "type" : "Feature"
   }, {
@@ -880,7 +5218,97 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2 2,5 JT"
+      "name" : "DATA 2 2,5 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1441178999999995, 106.7336122 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "data rmh 15 juta/m2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6135942, 123.022421 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Objek/Lokasi 3"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2946944, 106.62011109999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/RK/20,4JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9523056, 122.79061109999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/RK/6,6JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3602778, 135.49875 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/RK/13JT/A.N BURHANUDIN"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6852777999999997, 128.1859167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LLBCA/NURLIANA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2287222, 106.8544167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/SWRK/87RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2226551, 106.61954929999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/SWRK/DKI/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.8984721999999999, 131.3305 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/2,6JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2213332999999995, 106.8655278 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKHS/35JT/19"
     },
     "type" : "Feature"
   }, {
@@ -895,11 +5323,66 @@
     "type" : "Feature"
   }, {
     "geometry" : {
+      "coordinates" : [ -3.4204166999999996, 135.4396667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/A.N RUSDA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.896, 119.8511944 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/58RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1206389, 133.5375278 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/RK/7,2JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.19125, 106.84599999999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DATA 3-19,5 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -2.6013056, 140.65091669999998 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek M. ADAM"
+      "name" : "OBJEK M. ADAM"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.752933199999999, 132.68339749999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/306/A.N JAMRUT RENHORAN"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9092091999999999, 119.85617699999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Jl. Pue Bongo 16-10, Boyaoge, Palu Bar., Kota Palu, Sulawesi Tengah 94111, Indonesia",
+      "name" : "Data 1"
     },
     "type" : "Feature"
   }, {
@@ -908,7 +5391,43 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3 7,8 JT"
+      "name" : "DATA 3 7,8 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2931111, 106.62061109999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/RK/23,4JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6182139, 123.00591089999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/54RB/TK"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2812778, 106.9546111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/2,8JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.23021, 119.437868 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/1,6JT"
     },
     "type" : "Feature"
   }, {
@@ -917,7 +5436,61 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek"
+      "name" : "objek"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6274735, 123.01778809999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DATA 3"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.8363611, 109.9684722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/2,8JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5544721999999997, 140.5169167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/400RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1649443999999995, 106.90225 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT4/SWRK/126RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1160833, 106.77644439999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/SWRK/BPDBANTEN/BAAN"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.5602646, 123.0759669 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "kantor pak rijal mahanggi"
     },
     "type" : "Feature"
   }, {
@@ -926,7 +5499,187 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2 7,3 JT"
+      "name" : "DATA 2 7,3 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2121110999999996, 106.85855559999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/HOTEL PT PAMORINDO/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.4772778, 118.7384694 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT6/TK/630RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1126111, 119.5025 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Objek/Gudang/PT. Wahyu Pradana"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3769166999999998, 135.5034722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RK/AGN BNI/A.N IWAN KUNCORO"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.3554444, 119.63080559999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/200RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8484167, 119.81352779999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Objek/TKRT/LOK5/CV. MATTAPPAWALIE"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6257778, 128.20024999999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/385RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.6258055999999996, 128.1969444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/PT. PRIMA KONTRUKSI/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.156888899999999, 106.7691667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/RK/16JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1789722, 119.3985278 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/12,7JT/18"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6366982999999999, 123.0069642 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/270RB/TKRT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3425556, 135.5159167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/JUBAIDAH/LOK 3"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1471069, 106.7378418 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "data r6-7,8 juta/m2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.9074806, 116.75974719999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT6/TRANSK/SPOR/TK-KEBUN/7,5RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.4887302, 133.1399095 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/306/A.N MAGDALENA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8815556, 119.8644444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Objek/TK/LOK 6/CV. MATTAPPAWALIE"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9526667, 122.79116669999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/RK/9,3JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.14525, 106.83222219999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/RK/18 JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.8365555999999998, 109.9740278 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK 3/QUALITA/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2928333, 106.7848056 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/SWOF/METROPOLITAN/292RB/M"
     },
     "type" : "Feature"
   }, {
@@ -935,7 +5688,16 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1 tanah sawah 2,2 jt"
+      "name" : "Data 1-2,2 JT-tanah sawah"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.1795278, 135.7299722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/50RB"
     },
     "type" : "Feature"
   }, {
@@ -944,7 +5706,106 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek"
+      "name" : "objek"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1045833, 119.5025833 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/PT. TRITON/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.1620556, 122.6574722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/240RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9998889, 122.779 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/270RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.8589292, 116.76506169999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT/NET/TK/500RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5641944, 140.49349999999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK 9/QUALITA/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.7002262, 127.55072829999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/25RB/3.500 M2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.0938889, 119.5046667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKGD/2,3JT/16"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1213611, 119.5128611 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/5,8JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.560027799999999, 106.7626111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/RK/10,3JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.10725, 106.1124167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RK/PT WIRAJAY INTERNUSA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.8870765, 107.6136307 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT5/SWKT/118RB/M/B"
     },
     "type" : "Feature"
   }, {
@@ -953,7 +5814,7 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 3 2,6 JT"
+      "name" : "DATA 3 2,6 JT"
     },
     "type" : "Feature"
   }, {
@@ -967,11 +5828,65 @@
     "type" : "Feature"
   }, {
     "geometry" : {
+      "coordinates" : [ 0.6256419, 123.0097792 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/118RB/TK"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -2.556683, 140.4922504 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1"
+      "name" : "DATA 1"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8570278, 119.8187222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Objek/TK/LOK4/CV. MATTAPPAWALIE"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1306065999999997, 106.11703539999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RK/LOKASI 8/PT. WIRAJAY INTERNUSA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9301389, 122.8365833 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/1,2JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.9088861, 116.7618528 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT9/TRANS/SPOR/TKEBUN/7,5RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1220277999999997, 133.53933329999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RK/LLBNI/A.N UDIN RUSDI"
     },
     "type" : "Feature"
   }, {
@@ -986,12 +5901,138 @@
     "type" : "Feature"
   }, {
     "geometry" : {
+      "coordinates" : [ 0.597043, 123.10585999999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/58RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -6.16921, 106.634 ],
       "type" : "Point"
     },
     "properties" : {
       "address" : "Dinas Pertanian Dan Peternakan Kabupaten Tangerang, Jl. Daan Mogot Pasar Baru Kota Tangerang, Sukarasa, Tangerang, Tangerang City, Banten 15111, Indonesia",
       "name" : "Objek PT. Prabutama Konstruksindo"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.474109299999999, 119.8165538 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKSW/28,5rb/18"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8773332999999996, 119.9239444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/14RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1454394, 106.7208538 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/8,1JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.337805599999999, 106.7796111 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/5,9JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.8638333, 119.92091669999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TK/LOK9/CV.MATTAPPAWALIE"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.21975, 135.5857222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/129RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1366944, 106.13688889999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOKASI 2/PT. WIRAJAY INTERNUSA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.9800753, 120.3235856 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Data 2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.6067341, 110.792153 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT7/TK/5JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.8857778, 134.037 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/438RB/A.N M TAHIR"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.9666814, 112.6339069 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DATA 1-62 Rb/m2/bln"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.618478, 123.00505509999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/36RB/TK"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3434166999999997, 135.51644439999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/RK/4,6JT"
     },
     "type" : "Feature"
   }, {
@@ -1005,11 +6046,83 @@
     "type" : "Feature"
   }, {
     "geometry" : {
+      "coordinates" : [ -6.168666699999999, 106.81824999999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/RK/19JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.8638610999999999, 134.0479167 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LLBNI/MUH RIJAL"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -6.1704636, 106.6167303 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek PT. MAS"
+      "name" : "objek PT. MAS"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.0219444, 131.319 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/QUALITA/LOK 2/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.0311672, 119.571388 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/GUDANG/JUAL BELI/SHERLY/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2383611, 106.7902778 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT4/SWRK/86RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1347777999999997, 106.1195833 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/RK/5,8JT/PT.WIRAJAY INTERNUSA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.9244667, 116.7572556 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT5/TK/SPOR/180RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.146249999999999, 106.8312222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/RK/13,6JT/19"
     },
     "type" : "Feature"
   }, {
@@ -1018,7 +6131,43 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1 950 rb"
+      "name" : "data 1 950 rb"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.179387999999999, 106.68836999999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/7,3JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1617657, 106.90485439999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Objek/SW/ BPD BANTEN/BAAN"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1158934, 106.8911919 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOKASI 6"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.911167, 131.32905599999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/4JT/19"
     },
     "type" : "Feature"
   }, {
@@ -1027,7 +6176,72 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek PT. Mas"
+      "name" : "objek PT. Mas"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1646015, 106.90249349999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT5/SWRK/112RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6180962, 123.0069935 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/70rb/TKRT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.193331, 119.48330399999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/1,5 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.210352899999999, 106.80974499999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Jl. D. Buyan Blok F2 No.92, RT.7/RW.3, Bend. Hilir, Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10210, Indonesia",
+      "name" : "Kos-an indra"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.8511666999999999, 134.0388056 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/237RB"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.5050722, 119.799869 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Objek Danom No 5"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.306036499999999, 106.68138019999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Jl. Cemara Raya, Rw. Buntu, Serpong, Kota Tangerang Selatan, Banten 15310, Indonesia",
+      "name" : "Kosan Suryati"
     },
     "type" : "Feature"
   }, {
@@ -1036,7 +6250,43 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek FERRY DAME"
+      "name" : "OBJEK FERRY DAME"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6997253999999999, 127.5514419 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK 2 -31 RIBU/M2/20.000M2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.8949417, 116.7568556 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT7/TK/SHM/1,2JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.337694399999999, 106.78041669999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKRT/6,7JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.894888, 116.76793699999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT4/TRNS/SPO/TKPERT/10RB/19"
     },
     "type" : "Feature"
   }, {
@@ -1045,7 +6295,62 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 2 tanah kosong 3,5 jt (1.020 m2)"
+      "name" : "data 2-3,5 jt- tanah kosong (1.020 m2)"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -3.3674999999999997, 135.4880833 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/RK/11JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1426389, 106.1322778 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/346RB/PT. WIRAJAY INTERNUSA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.2581109999999995, 119.427639 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/1,5JT/306 GOA"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.6063075, 110.7863739 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TK/PT. SURYA WARNA PUTRA/7,4JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.237019, 106.919388 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Tempat Ngaji, Jl. Swadaya Raya, RT.8/RW.5, Duren Sawit, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13440, Indonesia",
+      "name" : "Th"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -4.8762823, 105.1230305 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/SKK MIGAS/HARPINDO/19"
     },
     "type" : "Feature"
   }, {
@@ -1060,11 +6365,74 @@
     "type" : "Feature"
   }, {
     "geometry" : {
+      "coordinates" : [ -4.3815, 119.62488889999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/270RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.5279722, 106.76174999999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RK/LLDKI/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.9099972, 116.7628306 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT13/TRANS/TKEBUN/SPOR/7,5RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.4161111, 119.44108329999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/591RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.3374444, 106.77927779999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RT/SAMSAT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1192825, 119.4109594 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/RK/PT. BERJAYA ABADI/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -4.0925, 138.94527779999999 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Data 1 LLG BNI A/N M.ICHSAN ANGGO 23 JT"
+      "name" : "DATA 1-23 JT- LLG BNI A/N M.ICHSAN ANGGO"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.6252700999999999, 123.0171721 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Objek"
     },
     "type" : "Feature"
   }, {
@@ -1083,7 +6451,88 @@
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek KCI Lok Bandung"
+      "name" : "objek KCI Lok Bandung"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.88325, 134.03572219999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TK/LLBNI/A.N M TAHIR"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.489936999999999, 133.1391692 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK 6"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1486944, 119.4321389 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/RK/13,5JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.2754444, 112.8072222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/20JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.448955499999999, 105.2660868 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "Objek/BPD Banten/SW/X/18"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.5710832999999997, 140.52952779999998 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TK/1,3JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1208056, 119.4111667 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/RK/8,6JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.6381145, 115.207112 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "h"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.202166699999999, 106.85611109999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKHR/28JT/19"
     },
     "type" : "Feature"
   }, {
@@ -1097,11 +6546,183 @@
     "type" : "Feature"
   }, {
     "geometry" : {
+      "coordinates" : [ -2.9956943999999996, 119.8812222 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TK/3,4JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -1.0123056, 131.3188333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/396RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2413056, 106.79005559999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/SWRK/79RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -2.1174722, 133.5329722 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/RK/7,6JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1079444, 119.50330559999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT3/TKGD/2,5JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.09775, 119.46552779999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKGD/2,1JT/16"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2836944, 106.95369439999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/3,6JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1166164, 106.780102 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT5/SWRK/67RB/M/B"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -7.0135843, 110.41845049999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DATA 1-32 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.249031, 107.02990349999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "address" : "Jl. Puskesmas No.19, Aren Jaya, Bekasi Tim., Kota Bks, Jawa Barat 17111, Indonesia",
+      "name" : "Kosan Ikri"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1497169, 106.835369 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DATA 2/TK/30,5 JT"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
       "coordinates" : [ -2.5678332999999998, 140.5204444 ],
       "type" : "Point"
     },
     "properties" : {
-      "name" : "Objek Jaya Ginting"
+      "name" : "OBJEK JAYA GINTING"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.1350408, 106.74600749999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "data 4 r6-4,5 juta/m2"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -6.2416667, 106.94375 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT1/TKRT/4,1JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.1667222, 119.4363889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TKRT/4,4JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.228888899999999, 119.4405833 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/TKSW/306 GOA/A.N JOSEP LIRUNGAN"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -5.5318610999999995, 119.4364444 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "OBJEK/LOK2/CV. MARINE"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -8.4729194, 118.73168609999999 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT5/TK/810RB/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -0.8830277999999999, 131.2813333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "DT2/TK/10,2 JT/19"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 0.598117, 123.108448 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "name" : "LOK4/55RB"
     },
     "type" : "Feature"
   } ],
